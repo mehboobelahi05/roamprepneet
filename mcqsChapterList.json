@@ -12,7 +12,108 @@
     "name": "11th Biology",
     "sub_chapters": [
       {
+        "name": "Chapter 1: The Living World",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 2: Biological Classification",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 3: Plant Kingdom",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 4: Animal Kingdom",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 5: Morphology of Flowering Plant",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 6: Anatomy of Flowering Plants",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 7: Human Health and Disease",
+        "sub_chapters": []
+      },
+      {
         "name": "Chapter 8: Cell The Unit of Life",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 9: Biomolecules",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 10: Cell Cycle and Cell Division",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 11: Photosynthesis in Higher Plants",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 12: Respiration in Plants",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 13: Plant Growth and development",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 14: Breathing and Exchange of Gases",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 15: Body Fluids and Circulation",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 16: Excretory Products and Their Elimination",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 17: Locomotion and Movement",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 18: Neural Control and Coordination",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 19: Chemical Coordination and Integration",
+        "sub_chapters": []
+      }
+    ]
+  },
+  {
+    "name": "12th Biology",
+    "sub_chapters": [
+      {
+        "name": "Chapter 1: Sexual Reproduction in Flowering Plants",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 2: Human Reproduction",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 3: Reproductive Health",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 5: Molecular Basis of Inheritance",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 6: Evolution",
+        "sub_chapters": []
+      },
+      {
+        "name": "Chapter 7: Human Health and Disease",
         "sub_chapters": []
       }
     ]
