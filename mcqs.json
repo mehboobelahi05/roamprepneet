@@ -1,5 +1,1382 @@
 [
   {
+    "id": "8o-Xyl7TD",
+    "question": "The living organisms can be unexceptionally distinguished from the non-living things on the basis of their ability for?",
+    "options": [
+      "interaction with the environment and progressive evolution",
+      "reproduction",
+      "growth and movement",
+      "responsiveness to touch"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The unique distinction for all living organisms without exception is their capacity for interaction with the environment and progressive evolution through natural selection, unlike other traits which may not apply universally.",
+    "explanation_block_uid": "-seA68yIw",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "B8_DY6waj",
+    "question": "Which type of organization is found in only living beings?",
+    "options": [
+      "Atomic",
+      "Molecular",
+      "Mixture",
+      "Sub-cellular"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Sub-cellular organization, involving specialized structures like organelles, is exclusive to living cells, while atomic, molecular, and mixture levels occur in non-living matter as well.",
+    "explanation_block_uid": "UOzpAbEUy",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CLkEyDkA6",
+    "question": "Organisation levels in living beings are?",
+    "options": [
+      "Subcellular -> cellular -> individual -> community -> population",
+      "Atomic -> molecular -> subcellular -> cellular -> tissue -> organ -> individual -> population",
+      "Individual -> population -> organ system -> tissue -> cellular -> molecular -> atomic -> ecosystem",
+      "Atomic -> tissue -> cellular -> molecular -> tissue -> individual -> ecosystem -> community"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct sequence of organization in living beings begins at the atomic level and progresses logically through molecular, subcellular, cellular, tissue, organ, and up to population.",
+    "explanation_block_uid": "qH3BGO0Rr",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "3jJdwztKp",
+    "question": "ICVCN is an abbreviated form of?",
+    "options": [
+      "International Code of Virus Nomenclature",
+      "International Code for Virulence Nomenclature",
+      "International Code of Viral Classification and Nomenclature",
+      "International Code of Valuation in Nomenclature"
+    ],
+    "correct_option_index": 2,
+    "explanation": "ICVCN stands for International Code of Viral Classification and Nomenclature, which provides rules for naming and classifying viruses.",
+    "explanation_block_uid": "XztGBRh_p",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "8AbRs1zH4",
+    "question": "Taxonomic hierarchy refers to?",
+    "options": [
+      "step-wise arrangement of all categories for classification of plants and animals.",
+      "a group of senior taxonomists who decide the nomenclature of plants and animals.",
+      "a list of botanists or zoologists who have worked on taxonomy of a species or group.",
+      "classification of a species, based on fossil record."
+    ],
+    "correct_option_index": 0,
+    "explanation": "Taxonomic hierarchy is the stepwise arrangement of categories from kingdom down to species used in classifying plants and animals.",
+    "explanation_block_uid": "S92CaWm-N",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "UuntuGFqy",
+    "question": "Growth, development and functioning of living body is due to?",
+    "options": [
+      "Order",
+      "Homeostasis",
+      "Metabolism",
+      "Adaptation"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Metabolism includes all chemical processes that provide energy and materials for growth, development, and overall functioning in living organisms.",
+    "explanation_block_uid": "wFS3jLz9b",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MzozNLANW",
+    "question": "System of classification used by Linnaeus was?",
+    "options": [
+      "Natural system",
+      "Artificial system",
+      "Phylogenetic system",
+      "Asexual system"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Linnaeus's system was artificial, primarily based on arbitrary characteristics like the number of stamens in flowers rather than natural or evolutionary relationships.",
+    "explanation_block_uid": "9FLogLZdQ",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BMSsFdGZl",
+    "question": "The term \"New systematics\" was introduced by?",
+    "options": [
+      "Bentham and Hooker",
+      "Linnaeus",
+      "Julian Huxley",
+      "A.P. de Candolle"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Julian Huxley coined \"New systematics\" to emphasize classification based on evolutionary, genetic, and population data.",
+    "explanation_block_uid": "GeGe1eKuX",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Pcz_8YUUA",
+    "question": "Rattus rattus scientific name is an example of?",
+    "options": [
+      "Autonyms",
+      "Tautonyms",
+      "Synonyms",
+      "Homonyms"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Tautonyms occur when the genus and species names are identical, as in Rattus rattus for the black rat.",
+    "explanation_block_uid": "XQpddqg5m",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EDR21PT11",
+    "question": "Given below is the botanical name of mango. Mark the option in which the name is correctly written?",
+    "options": [
+      "Mangifera Indica",
+      "Mangifera indica",
+      "Mangifera Indica",
+      "Mangifera indica"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The correct binomial format for mango is Mangifera indica, with the genus capitalized and the species in lowercase.",
+    "explanation_block_uid": "86Ytf8P6l",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "gJjz_J94R",
+    "question": "Phylogeny refers to?",
+    "options": [
+      "Natural classification",
+      "Evolutionary classification",
+      "Evolutionary history",
+      "Origin of algae"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Phylogeny specifically refers to the evolutionary history and relationships among organisms or groups.",
+    "explanation_block_uid": "pdbebcyPZ",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "B8lQ24Oqy",
+    "question": "The basic unit of classification is?",
+    "options": [
+      "Genus",
+      "Species",
+      "Order",
+      "All of these"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Species is the fundamental unit in biological classification, representing a group of organisms capable of interbreeding.",
+    "explanation_block_uid": "QzGFBgT8g",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "w8iMzFH83",
+    "question": "Group of organisms that closely resemble each other and freely interbreed in nature constitute?",
+    "options": [
+      "Species",
+      "Genus",
+      "Family",
+      "Taxon"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A genus is a group of closely related species that share common characteristics and can interbreed under certain conditions.",
+    "explanation_block_uid": "eC1ML2Sme",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HUUcIgbui",
+    "question": "If an organism is in the same class but not in the same family?",
+    "options": [
+      "Genus",
+      "Species",
+      "Family",
+      "Taxon"
+    ],
+    "correct_option_index": 1,
+    "explanation": "An organism in the same class but different family belongs to different species, as species are more specific groupings.",
+    "explanation_block_uid": "FGLU-bE8D",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "OkjY9ae0o",
+    "question": "The category which includes related families is?",
+    "options": [
+      "Class",
+      "Phylum",
+      "Order",
+      "Kingdom"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Order is the taxonomic category that groups related families together.",
+    "explanation_block_uid": "yeBjnk9LP",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Sgith2I0T",
+    "question": "The term \"New Systematics\" was introduced by?",
+    "options": [
+      "Bentham and Hooker",
+      "Linnaeus",
+      "Julian Huxley",
+      "A.P. de Candolle"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Julian Huxley introduced \"New Systematics\" to incorporate evolutionary and genetic principles into classification.",
+    "explanation_block_uid": "7tZ5W4qot",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kH-FgNMEP",
+    "question": "Which of the following statements are true?",
+    "options": [
+      "Genus comprises a group of related species.",
+      "Taxon does not represents a taxonomic group of individual organisms.",
+      "Family comprises a group of related genera.",
+      "Taxonomic category class includes related orders."
+    ],
+    "correct_option_index": 3,
+    "explanation": "All the statements are true: genus groups species, taxon is any taxonomic unit, family groups genera, and class groups orders.",
+    "explanation_block_uid": "52PLBj4W5",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EROv22R6e",
+    "question": "A duplicate of nomenclature type is termed by a taxonomist as?",
+    "options": [
+      "Syntype",
+      "Neotype",
+      "Paratype",
+      "Isotype"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Isotype refers to a duplicate specimen of the original type used in nomenclature.",
+    "explanation_block_uid": "8Ru5BrNAZ",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "I-MCKI-Gm",
+    "question": "Select the true statement for reproduction?",
+    "options": [
+      "It is not an all-exclusive defining characteristic of living organisms.",
+      "It is not an all-inclusive defining characteristic organisms.",
+      "It is an all-inclusive defining characteristic of plants and fungi only.",
+      "Photoperiod affects reproduction in seasonal plant breeders only."
+    ],
+    "correct_option_index": 3,
+    "explanation": "Reproduction is not all-exclusive, as some organisms like sterile hybrids do not reproduce, but it affects seasonal breeders via photoperiod.",
+    "explanation_block_uid": "nsdVE7IDc",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "y10MPryov",
+    "question": "Which of the following pair of taxa are not present in Linnaean hierarchy?",
+    "options": [
+      "Genus and variety",
+      "Class and Species",
+      "Family and Phylum",
+      "Class and variety"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Genus and variety, family and phylum, and class and variety are in the hierarchy, but class and species are not directly adjacent pairs.",
+    "explanation_block_uid": "dgyjLzalx",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "tGCVgxej0",
+    "question": "The smallest unit of classification is?",
+    "options": [
+      "Family",
+      "Order",
+      "Genus",
+      "Species"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Species is the smallest and most basic unit in the taxonomic hierarchy.",
+    "explanation_block_uid": "AJ7qtToDT",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bYpKBJu3Q",
+    "question": "Morphologically similar but reproductively isolated species are called?",
+    "options": [
+      "Neontological species",
+      "Sibling species",
+      "Allopatric species",
+      "Morpho-species"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Sibling species are morphologically identical but cannot interbreed, hence reproductively isolated.",
+    "explanation_block_uid": "rXMdEboqY",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "F1015I4Cc",
+    "question": "Who is the father of Biology?",
+    "options": [
+      "Hippocrates",
+      "Theophrastus",
+      "Aristotle",
+      "Darwin"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Aristotle is considered the father of Biology for his foundational work in studying and classifying organisms.",
+    "explanation_block_uid": "VakXNeq3u",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4uX458NPa",
+    "question": "The usage of binomial names, for plant species was accepted by all after the publication of the work by?",
+    "options": [
+      "Hooker",
+      "Linnaeus",
+      "Bentham",
+      "Darwin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Binomial nomenclature for plants was widely accepted after Linnaeus's publication \"Species Plantarum.\"",
+    "explanation_block_uid": "CwbJRMrbe",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PIiB0408J",
+    "question": "Which of the following subdivisions deals with fossils?",
+    "options": [
+      "Ecology",
+      "Ornithology",
+      "Ethology",
+      "Palaeontology"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Palaeontology is the study of fossils to understand ancient life forms.",
+    "explanation_block_uid": "VW7wTSR1x",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "iK7Nju6Pg",
+    "question": "Biosystematics aims at?",
+    "options": [
+      "identification and arrangement of organisms on the basis of their cytological characteristics.",
+      "the classification of organisms based on broad morphological characters.",
+      "delimiting various taxa of organisms and establishing their relationships.",
+      "the classification of organisms based on their evolutionary history and establishing their phylogeny on the totality of various parameters from all fields of studies."
+    ],
+    "correct_option_index": 3,
+    "explanation": "Biosystematics uses comprehensive data from cytology, evolution, and other fields to classify and relate organisms.",
+    "explanation_block_uid": "7D4mhuvQs",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "eWQ5TypA_",
+    "question": "Need for a proper system of classification arises because?",
+    "options": [
+      "the organisms of the past cannot be studied without it.",
+      "classification help in knowing the relationship among the different group of organisms.",
+      "it is not possible to study every organism.",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "A proper classification system is essential for studying past organisms via fossils, understanding relationships, and managing the vast diversity of life.",
+    "explanation_block_uid": "ym8pkY1-t",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FmtrPnvD1",
+    "question": "The disadvantage of using common names for species is that?",
+    "options": [
+      "the names may change.",
+      "one name does not apply universally.",
+      "one species may have several common name and one common may be applied to two species.",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Common names vary by region, can change, and may apply to multiple species or multiple names to one, causing confusion.",
+    "explanation_block_uid": "TkBEjsCWx",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-PVvPp7lS",
+    "question": "Which of the following shows the correct example of taxonomic category - Genus?",
+    "options": [
+      "Potato, tomato and brinjal belong to Solanum.",
+      "Monkey, gorilla and gibbon are placed in Mammalia.",
+      "Solanum, Petunia, and Datura are placed in Solanacea.",
+      "Mangifera indica, Solanum tuberosum, and Panthera leo."
+    ],
+    "correct_option_index": 3,
+    "explanation": "Potato, tomato, and brinjal are examples of different species within the genus Solanum.",
+    "explanation_block_uid": "R2D-3sPfW",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CJO2ZCE29",
+    "question": "On how many criteria living organisms have been classified into five kingdoms?",
+    "options": [
+      "Two",
+      "Four",
+      "Five",
+      "Three"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Whittaker's five-kingdom classification is based on criteria like cell structure, nutrition, reproduction, and phylogeny.",
+    "explanation_block_uid": "b-4SxBIxP",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BleAegwqL",
+    "question": "Who developed the 'Key' for identification of animals?",
+    "options": [
+      "Goethe",
+      "John Ray",
+      "Theophrastus",
+      "George curier"
+    ],
+    "correct_option_index": 1,
+    "explanation": "John Ray developed taxonomic keys as tools for identifying organisms based on contrasting characteristics.",
+    "explanation_block_uid": "0DqgIai9j",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "vkvc38bpD",
+    "question": "Binomial nomenclature means?",
+    "options": [
+      "One name given by two scientists.",
+      "One scientific name consisting of a generic and specific epithet.",
+      "Two names, one latinised, other of a person.",
+      "Two names of same plant."
+    ],
+    "correct_option_index": 1,
+    "explanation": "Binomial nomenclature uses two words: the genus and the specific epithet, as per Linnaean system.",
+    "explanation_block_uid": "ZI8Nyqivk",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6TA5MgmO5",
+    "question": "An animal with same generic, specific and subspecific names is?",
+    "options": [
+      "Man",
+      "Gorilla",
+      "Rabbit",
+      "Elephant"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Gorilla gorilla gorilla is an example where genus, species, and subspecies names are the same.",
+    "explanation_block_uid": "s2JT0-4N_",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "UKSvxt4fk",
+    "question": "The term 'New Systematics' was introduced by?",
+    "options": [
+      "Bentham and Hooker",
+      "Linnaeus",
+      "Julian Huxley",
+      "A.P. de Candolle"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Bentham and Hooker introduced 'New Systematics' focusing on natural affinities.",
+    "explanation_block_uid": "Yithw5uAo",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "uH39jNBra",
+    "question": "Which of the following taxonomic category of housefly is incorrectly matched?",
+    "options": [
+      "Genus - Musca",
+      "Family - Muscidae",
+      "Order - Primata",
+      "Class - Insecta"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Housefly's order is Diptera, not Primata, which is for primates.",
+    "explanation_block_uid": "YtOdF02K9",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VRPPEYr2x",
+    "question": "Which of the following is less general in characters as compared to genus?",
+    "options": [
+      "Species",
+      "Division",
+      "Class",
+      "Family"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Species has the most specific characters, less general than genus which groups multiple species.",
+    "explanation_block_uid": "N1slzI-1K",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PMBGNFyGc",
+    "question": "Phenetic classification is based on?",
+    "options": [
+      "sexual characteristics.",
+      "the ancestral lineage of existing organisms.",
+      "observable characteristics of existing organisms.",
+      "dendograms based on DNA characteristics."
+    ],
+    "correct_option_index": 2,
+    "explanation": "Phenetic classification uses observable traits like morphology to group organisms, without considering evolution.",
+    "explanation_block_uid": "50cQDylQv",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2bdMiNdI4",
+    "question": "\"X\" being a higher category is the assemblage of families which exhibit a few \"Y\" characters. The \"Z\" characters are less in a number as compared to different genera included in a family. Identify \"X\", \"Y\", and \"Z\"?",
+    "options": [
+      "X - Order; Y - Similar; Z - Similar",
+      "X - Genus; Y - Similar; Z - Different",
+      "X - Species; Y - Different; Z - Similar",
+      "X - Class; Y - Different; Z - Different"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Order (X) assembles families with similar (Y) characters, fewer than in genera, which have different (Z) characters within families.",
+    "explanation_block_uid": "Y8-CfA71X",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "pywAzkgKV",
+    "question": "Artificial system of classification was first used by?",
+    "options": [
+      "Linnaeus",
+      "De Candolle",
+      "Pliny the Edler",
+      "Bentham and Hooker"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Linnaeus used an artificial system based on superficial traits like stamen number.",
+    "explanation_block_uid": "DIfC3PtCc",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NdovuZMwR",
+    "question": "Which one of the taxonomic aids can give comprehensive account of complete compiled information of any one genus or family at a particular time?",
+    "options": [
+      "Taxonomic key",
+      "Flora",
+      "Herbarium",
+      "Monograph"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Flora provides a complete compiled account of plants in a region, including genera and families.",
+    "explanation_block_uid": "-yg4_fFxp",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "etSnbvCVX",
+    "question": "Classification based on sequencing of DNA and chemical nature of protein is?",
+    "options": [
+      "Chemotaxonomy",
+      "Cytotaxonomy",
+      "Adansonian taxonomy",
+      "Karyotaxonomy"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Chemotaxonomy uses chemical constituents like DNA sequences and proteins for classification.",
+    "explanation_block_uid": "UQCTiJXwD",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7j6mmyCeP",
+    "question": "Which of the following is the only taxonomic category that has a real existence?",
+    "options": [
+      "Phylum",
+      "Species",
+      "Genus",
+      "Kingdom"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Species is the only category with real biological existence, as it represents actual populations of organisms.",
+    "explanation_block_uid": "hlUwbHSpY",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-hA08s8Wi",
+    "question": "Match Column-I with Column-II and select the correct answer using the codes given below:\nA. Growth - I. Production of offspring\nB. Reproduction - II. Composed of one or more cells\nC. Metabolism - III. Increase in mass and increase in number of individuals\nD. Cellular organisation - IV. Sum total of all chemical reactions occurring in body ??",
+    "options": [
+      "A - I; B - II; C - III; D - IV",
+      "A - III; B - I; C - IV; D - II",
+      "A - II; B - III; C - IV; D - I",
+      "A - III; B - IV; C - I; D - II"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Growth matches increase in mass/number, reproduction to offspring, metabolism to chemical reactions, cellular organization to cells.",
+    "explanation_block_uid": "kIuDzk-XH",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "wbnyrl6oA",
+    "question": "Artificial system of classification classifies plants on the basis of?",
+    "options": [
+      "One or two characters",
+      "Phylogenetic trends",
+      "Many naturally existing characters",
+      "None of the above"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Artificial systems rely on one or few superficial characters for grouping.",
+    "explanation_block_uid": "KBNF8Ikm_",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "sDxb-3dyE",
+    "question": "The most important feature of all living systems is to?",
+    "options": [
+      "utilise oxygen to generate energy.",
+      "replicate the genetic information.",
+      "produce gametes.",
+      "utilise solar energy for metabolic activities."
+    ],
+    "correct_option_index": 1,
+    "explanation": "Replication of genetic information (DNA) is a key feature enabling continuity in living systems.",
+    "explanation_block_uid": "4ZN-UQ0lU",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7B95RPfz1",
+    "question": "NBRI is situated at?",
+    "options": [
+      "Calcutta",
+      "Bombay",
+      "Madras",
+      "Lucknow"
+    ],
+    "correct_option_index": 3,
+    "explanation": "National Botanical Research Institute (NBRI) is located in Lucknow, India.",
+    "explanation_block_uid": "RzlEDAPql",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YdP6y068V",
+    "question": "Mark the odd one in the following?",
+    "options": [
+      "Family",
+      "Class",
+      "Taxon",
+      "Phylum"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Taxon is a general term for any taxonomic unit, while the others are specific categories.",
+    "explanation_block_uid": "4_ByUcgqz",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "QLwbFKcWe",
+    "question": "Who was the first to describe, that species is the unit of classification?",
+    "options": [
+      "John Ray",
+      "Huxley",
+      "Linnaeus",
+      "Candolle"
+    ],
+    "correct_option_index": 0,
+    "explanation": "John Ray first defined species as the basic unit in classification.",
+    "explanation_block_uid": "HmBOcHazN",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "gbHcDzy--",
+    "question": "An important criterion for modern day classification is?",
+    "options": [
+      "Resemblances in morphology",
+      "Anatomical and physiological traits",
+      "Breeding habits",
+      "Presence or absence of notochord"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Modern classification emphasizes anatomical and physiological traits for accurate grouping.",
+    "explanation_block_uid": "Q2t6a85pL",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "P15NQm9qM",
+    "question": "The father of Biology is?",
+    "options": [
+      "Hippocrates",
+      "Theophrastus",
+      "Aristotle",
+      "Darwin"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Aristotle is known as the father of Biology for his systematic studies.",
+    "explanation_block_uid": "MzLlp_OXN",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4NFgW1fL_",
+    "question": "The use of accepted binomial names for plant species was after the publication by?",
+    "options": [
+      "Hooker",
+      "Linnaeus",
+      "Bentham",
+      "Darwin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Linnaeus's work standardized binomial names for plants.",
+    "explanation_block_uid": "7KtrKTm2f",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "K_9bUu0U7",
     "question": "Which of the below is fat soluble vitamin\nasda\nAsdas\nAsdas\nZAHID ?",
     "options": [
