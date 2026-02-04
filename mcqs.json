@@ -1,5 +1,404 @@
 [
   {
+    "id": "SGu2zGZJY",
+    "question": "Among these bacterial components, which is least likely to contain valuable antigens?",
+    "options": [
+      "Cell wall",
+      "Flagella",
+      "Ribosomes",
+      "Capsule"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Ribosomes are the least likely to contain useful antigens as they are not directly involved in bacterial interactions with the environment. The cell wall, flagella, and capsule can all be used by bacteria to interact with their environment and may contain helpful antigens.",
+    "explanation_block_uid": "vXUAckboR",
+    "tags": [
+      "Bacteria",
+      "Cell",
+      "Cell Organelles",
+      "Ribosomes",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZV_muCNO_",
+    "question": "N-acetylmuramic acid and N-acetylglucosamine can be found in which of the following structures?",
+    "options": [
+      "Mycoplasmas",
+      "Amoeba",
+      "Ecoli",
+      "Spheroplast"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The peptidoglycan, which surrounds the E. coli cell wall, is composed of these two sugar molecules in a repeating pattern. This layer helps to hold the bacterial shape and acts as a protective barrier against other microbes and environmental factors.",
+    "explanation_block_uid": "dm2JohJw7",
+    "tags": [
+      "Bacteria",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "UsCJquBgP",
+    "question": "Gram-negative bacteria are associated with endotoxin because of?",
+    "options": [
+      "Steroids",
+      "Peptidoglycan",
+      "Lipopolysaccharides",
+      "Polypeptide"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Lipopolysaccharides are a component of the cell wall of gram-negative bacteria, which binds with endotoxins. Endotoxins are also highly toxic; therefore, their association with gram-negative bacteria is due to the presence of lipopolysaccharides in their cell wall.",
+    "explanation_block_uid": "bFclEIf9E",
+    "tags": [
+      "Bacteria",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "cQQ5Q8QAU",
+    "question": "Is there a biocontrol agent that can be used to treat plant diseases?",
+    "options": [
+      "Lactobacillus",
+      "Trichoderma",
+      "Chlorella",
+      "Anabaena"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Trichoderma is a genus of fungi that is known for its biocontrol properties. Several species of Trichoderma can colonize plant roots and inhibit the growth of pathogenic fungi through mechanisms such as competition for resources, production of antifungal compounds, and stimulation of plant defense responses.",
+    "explanation_block_uid": "JLjbz_PvD",
+    "tags": [
+      "Diseases",
+      "Plant Diseases",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "q2-29YhTh",
+    "question": "In an integrated pest management program, a biocontrol agent should be?",
+    "options": [
+      "species-specific and symbiotic",
+      "free-living and broad-spectrum",
+      "narrow spectrum and symbiotic",
+      "species-specific and inactive on non-target organisms"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Integrated pest management is a multi-faceted approach used to control pests while minimizing environmental damage. When selecting an agent for IPM, it must be species-specific and meet one further requirement - it should be inactive or have minimal effect on non-target organisms. This will prevent the unintended destruction of beneficial creatures, preserving the stability of the ecosystem.",
+    "explanation_block_uid": "PockV8p40",
+    "tags": [
+      "Biotechnology",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "GGjJHDop5",
+    "question": "Among the following pairs of microbes, which pair contains both microbes that can be used as biofertilizers?",
+    "options": [
+      "Aspergillus and Rhizopus",
+      "Rhizobium and Rhizopus",
+      "Cyanobacteria and Rhizobium",
+      "Aspergillus and Cyanobacteria"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Blue-green algae, also called cyanobacteria, are photosynthetic bacteria capable of fixing atmospheric nitrogen into a form that plants can use. Through nitrogen fixation, they can form a symbiotic relationship with certain plants, providing them with nitrogen. Rhizobium is a genus of nitrogen-fixing bacteria that forms symbiotic associations with leguminous plants.",
+    "explanation_block_uid": "IOyxxGMXl",
+    "tags": [
+      "Biotechnology",
+      "Bacteria",
+      "nitrogen fixation",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xQVWpsCJJ",
+    "question": "Which is a gram-positive eubacterium?",
+    "options": [
+      "Actinomyces",
+      "Clostridium",
+      "Rhizobium",
+      "Clostridium, Actinomyces"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Gram-positive eubacteria are a group of bacteria with a cell wall that contains a thick layer of peptidoglycan and is stained purple by the Gram stain test. Clostridium and Actinomyces are both examples of gram-positive eubacteria.",
+    "explanation_block_uid": "ibKIOub20",
+    "tags": [
+      "Biotechnology",
+      "Bacteria",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "QxhnD7Q_B",
+    "question": "Which of the following microorganisms does not cause urinary tract infections?",
+    "options": [
+      "Proteus mirabilis",
+      "Escherichia coli",
+      "Klebsiella pneumoniae",
+      "Bacteroides fragilis"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Bacteroides fragilis is an anaerobic bacteria commonly found in the human gut and does not cause urinary tract infections. Proteus mirabilis, Escherichia coli, and Klebsiella pneumoniae can all cause urinary tract infections if present in the urinary tract.",
+    "explanation_block_uid": "PywYCAmf-",
+    "tags": [
+      "Biotechnology",
+      "Bacteria",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ccS0B9Ed8",
+    "question": "Which of the following is diagnosed by serologic means?",
+    "options": [
+      "Actinomycosis",
+      "Q-fever",
+      "Pulmonary tuberculosis",
+      "Gonorrhea"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Q-fever is a zoonotic disease caused by the bacteria Coxiella burnetii. Serologic testing can be used to diagnose Q-fever by detecting antibodies produced in response to the infection. Blood samples from the patient are tested to detect the presence and quantity of specific antibodies against Coxiella burnetii.",
+    "explanation_block_uid": "mQTuhmPzs",
+    "tags": [
+      "Diseases",
+      "Bacteria",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "KqICrJQwf",
+    "question": "Diarrhoea is not caused by?",
+    "options": [
+      "Shigella dysenteriae",
+      "Streptococcus pyogenes",
+      "Clostridium difficile",
+      "Salmonella enteriditis"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Streptococcus pyogenes is not a common cause of diarrhea. It is primarily associated with infections such as strep throat, skin infections, and invasive diseases like cellulitis or necrotizing fasciitis. While Streptococcus pyogenes can cause gastrointestinal symptoms in some cases, diarrhea is not a characteristic symptom of this bacterial infection.",
+    "explanation_block_uid": "y_w4ecIgu",
+    "tags": [
+      "Diseases",
+      "Bacteria",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Q-RDxOItR",
+    "question": "_________does not correspond to an ammonia-oxidizing bacteria?",
+    "options": [
+      "Nitrosococcus Oceanus",
+      "Nitrospina Gracilis",
+      "Nitrosomonas Europaea",
+      "Nitrosovibrio Tenuis"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Nitrosovibrio tenuis does not correspond to an ammonia-oxidizing bacteria. Nitrosococcus oceanus, Nitrospina gracilis, and Nitrosomonas europaea are all commonly known as ammonia-oxidizing bacteria.",
+    "explanation_block_uid": "ZDigu8wg9",
+    "tags": [
+      "Bacteria",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "lSlJ0d5O8",
+    "question": "A microorganism that is eliminated in canned foods is?",
+    "options": [
+      "Clostridium botulinum",
+      "Lactobacillus",
+      "Mycobacterium tuberculosis",
+      "Coxiella burnetii"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Clostridium botulinum is a microorganism that produces toxins in food, which can be lethal if consumed, so it must be eliminated through the canning process. This process involves heating the food up to high temperatures, which destroys the organism and its toxins.",
+    "explanation_block_uid": "29o5367XS",
+    "tags": [
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MTlpYa7_B",
+    "question": "Which one of the following corresponds to the bacteria that has clusters of flagella at both the poles of cells?",
+    "options": [
+      "Lophotrichous",
+      "Peritrichous",
+      "Amphitrichous",
+      "Monotrichous"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Amphitrichous bacteria have clusters of flagella at both poles of their cells. This means that they have multiple flagella, which are whip-like appendages responsible for bacterial motility, located at both ends of the bacterial cell.",
+    "explanation_block_uid": "fRH1agX9z",
+    "tags": [
+      "Bacteria",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "cE5MOA1Ev",
+    "question": "______is a Spirochetes?",
+    "options": [
+      "Treponema Pallidum",
+      "Streptomyces sp.",
+      "Corynebacterium Diphtheriae",
+      "Spirillum Volutans"
+    ],
+    "correct_option_index": 0,
+    "explanation": "As a member of the phylum Spirochaetes, Treponema pallidum belongs to the category Spirochaetes. Spirochaetes are characterized by their helical or spiral-shaped morphology and unique motility. Due to their spiral shape, they appear like corkscrews under a microscope. It is known that syphilis is caused by Treponema pallidum, a sexually transmitted infection that can develop various clinical manifestations if left untreated.",
+    "explanation_block_uid": "58LKTfAhg",
+    "tags": [
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "TYj7ZATMx",
+    "question": "Which of the following types of microorganisms is photosynthetic?",
+    "options": [
+      "yeast",
+      "virus",
+      "helminth",
+      "alga"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Algae are photosynthetic, meaning that they use light to produce oxygen and energy from water and carbon dioxide. Yeast and viruses are not photosynthetic, while helminths (parasitic worms) do not have the necessary chloroplasts for photosynthesis.",
+    "explanation_block_uid": "hJtE1Ts1h",
+    "tags": [
+      "Algae",
+      "Photosynthesis",
+      "Microbiology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "Microbiology"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "8o-Xyl7TD",
     "question": "The living organisms can be unexceptionally distinguished from the non-living things on the basis of their ability for?",
     "options": [
@@ -1323,6 +1722,33 @@
     "isPassageBased": false
   },
   {
+    "id": "q9T9a0E8C",
+    "question": "Which of the following taxa are not used by botanists?",
+    "options": [
+      "Kingdom & order",
+      "Phylum & family",
+      "Suborder & variety",
+      "Phylum & sub species"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Botanists use division instead of phylum, and subspecies instead of sub species, but phylum and sub species are not standard for plants.",
+    "explanation_block_uid": "D-Sd_d8EF",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "P15NQm9qM",
     "question": "The father of Biology is?",
     "options": [
@@ -1377,20 +1803,182 @@
     "isPassageBased": false
   },
   {
-    "id": "K_9bUu0U7",
-    "question": "Which of the below is fat soluble vitamin\nasda\nAsdas\nAsdas\nZAHID ?",
+    "id": "0iXy96Fcx",
+    "question": "In majority of higher animals and plants,_____ and _____ are mutually exclusive events?",
     "options": [
-      "Vitamin A",
-      "Vitamin B",
-      "Vitamin C",
-      "Vitamin D"
+      "growth; nutrition",
+      "nutrition; consciousness",
+      "growth; reproduction",
+      "reproduction; consciousness"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Growth and reproduction are mutually exclusive events in majority of the higher animals and plants. Growth may be defined as a positive change in size, often over a period of time. Growth can occur as a stage of maturation or a process toward fullness or fulfillment. Reproduction may be defined as the production of progeny possessing features more or less similar to those of parents.",
+    "explanation_block_uid": "-ERAYVYvE",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "z0XTa_eaZ",
+    "question": "In multicellular organisms _____refers to the production of progeny possessing features more or less similar to those of parents?",
+    "options": [
+      "growth",
+      "reproduction",
+      "metabolism",
+      "consciousness"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Reproduction ensures the continuity of the species, generation after generation. Genetic variation is created and inherited during reproduction.",
+    "explanation_block_uid": "3k9vF2QAU",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "AAre-LCAJ",
+    "question": "Families are characterized on which of the following features of plant species?",
+    "options": [
+      "External morphology",
+      "Anatomy of parts",
+      "Vegetative and reproductive parts",
+      "Seasonal similarities and variations"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A family is a subdivision of an order consisting of a group of related genera which in turn are composed of groups of related species. Families are characterized on the basis of vegetative and reproductive parts of the plants species.",
+    "explanation_block_uid": "h28G8tmTP",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "oUo5F6KpR",
+    "question": "The sum total of all the chemical reactions occurring in our body is known as?",
+    "options": [
+      "metabolism",
+      "growth",
+      "regeneration",
+      "reproduction"
+    ],
+    "correct_option_index": 0,
+    "explanation": "All living organisms are continuously making or breaking biomolecules, such conversions are due to chemical reactions, and sum total of all such chemical reactions, occurring in the body is called metabolism. Each metabolic pathway in the cell is tightly regulated by enzymes.",
+    "explanation_block_uid": "AXFG5IX2Q",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xwJSs4q2l",
+    "question": "Cell division occurs _______in plants and _______in animals?",
+    "options": [
+      "continuously, only up to a certain age",
+      "only up to a certain age, continuously",
+      "continuously, never",
+      "once, twice"
+    ],
+    "correct_option_index": 0,
+    "explanation": "All cells arise from pre-existing cells by a process of cell division. Cell division is the phenomenon of production of daughter cell from parent cell. It occurs continuously in plants and only up to a certain age in animals.",
+    "explanation_block_uid": "xY_VZdkw4",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HYC1Mo_BB",
+    "question": "The fungi, the filamentous algae, the protonema  of mosses, all easily multiply by _____?",
+    "options": [
+      "budding",
+      "fission",
+      "regeneration",
+      "fragmentation"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Fragmentation is a sexual mode of reproduction in which an organism is split into fragments. Each of these fragments develops into mature, fully grown individuals that are clones of the original organism. The fungi, the filamentous algae and the protonema of mosses all easily multiply by fragmentation.",
+    "explanation_block_uid": "z3Aa9sm7w",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7Z4Rpc2Va",
+    "question": "Which of the following factors exclusively affects reproduction in seasonal breeders, both plants and animals?",
+    "options": [
+      "Water",
+      "Temperature",
+      "Photoperiod",
+      "All of these"
     ],
     "correct_option_index": 2,
     "explanation": "",
     "explanation_block_uid": "",
     "tags": [
-      "Vitamins",
-      "Bio Chemicals",
+      "Chapter 1: The Living World",
+      "11th Biology",
       "MCQs",
       "Biology"
     ],
@@ -1398,28 +1986,26 @@
     "path_tags": [
       "MCQs",
       "Biology",
-      "Bio Chemicals",
-      "Vitamins"
+      "11th Biology",
+      "Chapter 1: The Living World"
     ],
     "isPassageBased": false
   },
   {
-    "id": "ScpmlJHyD",
-    "question": "Which of the below disease cahed by vtamin A?",
+    "id": "s4GqwLfLc",
+    "question": "The keys are based on contrasting characters generally in a pair called _______?",
     "options": [
-      "ad",
-      "Asd",
-      "asd",
-      "Asdasd"
+      "flora",
+      "couplet",
+      "both (a) and (b)",
+      "manuals"
     ],
-    "correct_option_index": 3,
-    "explanation": "f sd f df sdfs df sdf s fsdf sd",
-    "explanation_block_uid": "xlY0_DES6",
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
     "tags": [
-      "Diseases",
-      "Vitamin A",
-      "Vitamins",
-      "Bio Chemicals",
+      "Chapter 1: The Living World",
+      "11th Biology",
       "MCQs",
       "Biology"
     ],
@@ -1427,9 +2013,2123 @@
     "path_tags": [
       "MCQs",
       "Biology",
-      "Bio Chemicals",
-      "Vitamins",
-      "Vitamin A"
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4R3VrPUC_",
+    "question": "The order generally ends with?",
+    "options": [
+      "ales",
+      "aceae",
+      "eae",
+      "none of these"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HVrbjRY6e",
+    "question": "Which of the following are unique features of living organisms?",
+    "options": [
+      "Growth and reproduction",
+      "Reproduction and ability to sense environment",
+      "Metabolism and interaction",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HvB1Hm2ac",
+    "question": "Which of the following aspects is an exclusive characteristic of living things?",
+    "options": [
+      "Isolated metabolic reactions occur in vitro",
+      "Increase in mass from inside only",
+      "Perception of events happening in the environment and their memory",
+      "Increase in mass by accumulation of material both on surface as well as internally"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YyJx1EH8J",
+    "question": "Which of the following term is used to refer the number of varieties of plants and animals on earth ?",
+    "options": [
+      "Taxonomy",
+      "Identification",
+      "Biodiversity",
+      "Classification"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Uo5iv2S_O",
+    "question": "ICBN stands for?",
+    "options": [
+      "International Code of Botanical Nomenclature",
+      "International Congress of Biological Names",
+      "Indian Code of Botanical Nomenclature",
+      "Indian Congress of Biological Names"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "J5GYzD0uI",
+    "question": "Binomial nomenclature means?",
+    "options": [
+      "one name given by two scientists",
+      "one scientific name consisting of a generic and specific epithet",
+      "two names, one latinized, other of a person",
+      "two names of same plant"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6GQUKY1S-",
+    "question": "Herbarium is a?",
+    "options": [
+      "garden where medicinal plants are grown",
+      "garden where herbaceous plants are grown",
+      "dry garden",
+      "chemical to kill plants"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xlDKS0KSI",
+    "question": "The famous botanical garden ‘Kew’ is located in?",
+    "options": [
+      "England",
+      "Lucknow",
+      "Berlin",
+      "Australia"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "3hwPbX5q-",
+    "question": "Which ofthe following taxonomic aid provides information for the identification of names of species found in an area?",
+    "options": [
+      "Monograph",
+      "Manual",
+      "Flora",
+      "Periodical"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DGEghHbsb",
+    "question": "Which one of the following taxonomical aid is used for identification of plants and animals based on similarities and dissimilarities?",
+    "options": [
+      "Flora",
+      "Keys",
+      "Monographs",
+      "Catalogues"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MGU3wGdpe",
+    "question": "Which one of the following is not a correct statement?",
+    "options": [
+      "Botanical gardens have collection of living plants for reference",
+      "A museum has collection of photographs of plants and animals",
+      "Key is a taxonomic aid for identification of specimens",
+      "Herbarium is a store house that contains dried, pressed and preserved plant specimens"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Mw5hUShqt",
+    "question": "The practical purpose of classification of living organisms is to?",
+    "options": [
+      "explain the origin of living organsims",
+      "trace the evolution of living organsims",
+      "name the living organisms",
+      "facilitate identification of unknown organisms"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FxHHY9R7L",
+    "question": "Taxon is a?",
+    "options": [
+      "unit of classification",
+      "species",
+      "highest rank of classification",
+      "group of closely related organisms"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Hr1y1yqbK",
+    "question": "Systematics refers to the?",
+    "options": [
+      "identification and classification of plants and animals",
+      "nomenclature and identification of plants and animals",
+      "diversity of kinds of organisms and the irrelationship",
+      "different kinds of organisms and their classification"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "n-TlevqTJ",
+    "question": "Keys are generally _______in nature?",
+    "options": [
+      "physical",
+      "chemical",
+      "analytical",
+      "qualitative"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "N0S9YcMGW",
+    "question": "Each statement in the key is called _______?",
+    "options": [
+      "lead",
+      "catalogues",
+      "manuals",
+      "monographs"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5NMKjV68R",
+    "question": "Which of the following is not a characteristic of life?",
+    "options": [
+      "Reproduction",
+      "Complex chemical organization",
+      "Adaptation to environmental changes",
+      "Differentiation from cells to tissues"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "P1jIaH3U2",
+    "question": "In printed scientific names, only the ______is capitalized?",
+    "options": [
+      "class",
+      "species",
+      "genus",
+      "family"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-Yicl04h7",
+    "question": "Each category of taxonomic hierarchy refers to as a unit of______?",
+    "options": [
+      "systematic",
+      "identification",
+      "nomenclature",
+      "classification"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZgT8HSu2D",
+    "question": "Which of the following statement(s) is/are correct?",
+    "options": [
+      "Only living organisms grow",
+      "Plants grow only up to a certain age",
+      "The growth in living organisms is from inside",
+      "All of the above"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "uY9ch_zqH",
+    "question": "Which of the following statements regarding nomenclature is correct?",
+    "options": [
+      "Generic name always begins with capital letter whereas specific name with small letter",
+      "Scientific name should be printed in italics",
+      "Scientific name when typed or handwritten should be underlined",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "pRmlyo88B",
+    "question": "Which two points are known as the twin characteristics of growth:\n(i) Increase in mass\n(ii) Differentiation\n(iii) Increase in number of individuals\n(iv) Response to stimuli ??",
+    "options": [
+      "(i) and (ii)",
+      "(i) and (iv)",
+      "(ii) and (iii)",
+      "(i) and (iii)"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "c5ahtlb2f",
+    "question": "Statement 1 : Taxon and category are different things.\nStatement 2 : Category shows hierarchical classification ??",
+    "options": [
+      "Statement- 1 and statement-2 are true and statement-2 is a correct explanation for statement -1",
+      "Statement -1 and Statement -2 are true;statement-2 is not a correct explanation for statement – 1",
+      "Statement – 1 is true and statement- 2 is false",
+      "Both the statements are false"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "j6cFjbRT9",
+    "question": "Which of the following statements regarding growth is in correct?",
+    "options": [
+      "In plants, growth by cell division is seen only up to a certain stage",
+      "Growth exhibited by non-living objects is by accumulation of material on the surface",
+      "A multicellular organism grows by cell division",
+      "Growth in in vitro culture of unicellular organisms can be observed by counting the number of cells"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "RM3R5ZTBa",
+    "question": "Which of the following statements is correct about biodiversity ?",
+    "options": [
+      "It is the occurrence of varied type of organisms on earth",
+      "Each different kind of plant, animal or organism represents a species",
+      "The number of species that are known and described range between 1.7–1.8million",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Ue8lGxcGn",
+    "question": "Which of the following statements are correct for Metabolsim ?",
+    "options": [
+      "It is the sum total of all physical reactions taking place inside a living system",
+      "All plants, animals, fungi and microbes exhibit metabolism",
+      "Isolated metabolic reactions in-vitro are not living but are living reactions",
+      "All of the above"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "RRTZrGYQq",
+    "question": "Which of the following statements are not correct:\n(i) Lower the taxon, more are the characteristics that the members within the taxon share\n(ii) Order is the assemblage of genera which exhibit a few similar characters\n(iii) Cat and dog are included in the same family Felidae\n(iv) Binomial nomenclature was introduced by Carolus Linnaeus ??",
+    "options": [
+      "(i), (ii) and (iii)",
+      "(ii), (iii) and (iv)",
+      "(i) and (iv)",
+      "(ii) and (iii)"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "0OIYvfGgp",
+    "question": "Which of the following statements are correct:\n(i) Genus comprises a group of related species\n(ii) Taxon represents a taxonomic group of individual organisms\n(iii) Family comprises a group of related genera\n(iv) Taxonomic category class includes related orders ??",
+    "options": [
+      "(i), (ii), and (iv)",
+      "(ii) and (iv)",
+      "(i), (iii) and (iv)",
+      "(ii), (iii) and (iv)"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2FNRQRoBc",
+    "question": "Which of the following statement(s) is/are not correct:\n(i) Reproduction is the production of progeny possessing features dissimilar to their parents\n(ii) The fungi, the filamentous algae, the protonema  of mosses, all multiply by budding\n(iii) Many organisms like mules, sterile worker bees do not reproduce\n(iv) Reproduction is not an all-inclusive defining characteristic of living organisms ??",
+    "options": [
+      "Only (i)",
+      "Both (i) and (ii)",
+      "Both (ii) and (iv)",
+      "All of these"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7_eO3mfOl",
+    "question": "Which of the following statement(s) is/are correct:\n(i) All living organisms have ability to respond the environment stimuli which could be physical, chemical or biological\n(ii) Plants respond to external factors like light, water, temperature, other organisms, pollutants, etc\n(iii) Photoperiod affects the process of reproduction\n(iv) Human being is the only organism who has self-consciousness ??",
+    "options": [
+      "Only (i)",
+      "Both (ii) and (iii)",
+      "Both (i) and (iv)",
+      "All of these"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "gsMe3GyiZ",
+    "question": "Which of the following statement(s) is/are correct:\n(i) Classification is the providing of standardize names to the organisms such that a particular organism known by the same all over the world\n(ii) Taxonomy is the correct description of an organism and to recognition in its scientific name\n(iii) The system of naming with two components(binomial nomenclature) is proposed by Carolus Linneaus\n(iv) Zoological names are based on International Code for Zoological Nomenclature (ICZN) ??",
+    "options": [
+      "Only (i)",
+      "Both (iii) and (iv)",
+      "Only (iv)",
+      "All of these"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chapter 1: The Living World",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 1: The Living World"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "lR4fOl66l",
+    "question": "PEPcase & RuBisCO in C plants are present respectively in?",
+    "options": [
+      "mesophyll cell & bundle sheath cell",
+      "bundle sheath cell & mesophyll cell",
+      "spongy cell & bundle sheath cell",
+      "subsidiary cell & guard cell"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In C₄ plants, PEPcase (PEP carboxylase) is found in the mesophyll cells where it fixes CO₂ into oxaloacetate. RuBisCO is present in the bundle sheath cells where the Calvin cycle occurs.",
+    "explanation_block_uid": "ca8QXh5t6",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "W4UMqaZDh",
+    "question": "Choose the events that occur in non-cyclic photophosphorylation but not in cyclic photophosphorylation.\nI. Synthesis of ATP\nII. Water splitting\nIII. Involvement of PS I\nIV. Formation of NADPH\nV. Phosphorylation occurs due to cyclic flow of electrons\nChoose the correct answer from the options given below option ?",
+    "options": [
+      "II and IV only",
+      "I, II and V only",
+      "II, III, IV and V only",
+      "II, IV and V only"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Water splitting (II) and NADPH formation (IV) occur only in non-cyclic photophosphorylation. Cyclic photophosphorylation does not involve water or production of NADPH.",
+    "explanation_block_uid": "iMUGZbSab",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "l81PwCt7e",
+    "question": "Which of the following features are correct for bundle sheath cells in C plants.\nI. Thin walled\nII. Impervious to gaseous exchange\nIII. Having a large number of chloroplasts\nIV. Presence of intercellular spaces\nV. Wreath like arrangement of cells\nChoose the correct answer from the options given below option: ??",
+    "options": [
+      "I, II, III, IV and V",
+      "II, III and V only",
+      "II, III, IV and V only",
+      "I, II and V only"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Bundle sheath cells are impervious to gas exchange (II), have many chloroplasts (III), and are arranged in a wreath-like structure around the vascular bundle (V).",
+    "explanation_block_uid": "cz8yj_yz5",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZzgkOhlOX",
+    "question": "Choose the odd one w.r.t. the steps of Calvin cycle?",
+    "options": [
+      "Deamination",
+      "Carboxylation",
+      "Reduction",
+      "Regeneration"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Deamination is not part of the Calvin cycle. The main steps of the cycle are carboxylation, reduction, and regeneration.",
+    "explanation_block_uid": "eB5pKxXoA",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mWh98UivR",
+    "question": "Non-cyclic photophosphorylation?",
+    "options": [
+      "is not associated with splitting of water",
+      "occurs in stroma lamellae only",
+      "results in formation of ATP, NADPH & evolution of O₂",
+      "involves two photosystem that work in series, first PS I & then PS II"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Non-cyclic photophosphorylation involves both PS II and PS I, leading to ATP and NADPH formation and oxygen release from photolysis of water.",
+    "explanation_block_uid": "Ip_vcSL-3",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YUaWgN0xv",
+    "question": "Identify the A, B & C in the given image below?",
+    "options": [
+      "A-Chl b, B-Carotenoids, C-Chl a",
+      "A-Carotenoids, B-Chl a, C-Chl b",
+      "A-Chl a, B-Carotenoids, C-Chl b",
+      "A-Chl d, B-Carotenoids, C-Chl a"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Based on light absorption, carotenoids absorb different wavelengths than chlorophyll a and b. Chlorophyll a is the primary pigment, while chlorophyll b and carotenoids are accessory pigments.",
+    "explanation_block_uid": "eBO3iBiPF",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "S1HngeXIe",
+    "question": "FNR catalyses?",
+    "options": [
+      "oxidation of NADPH",
+      "oxidation of NADP⁺",
+      "reduction of NADP⁺",
+      "reduction of NADPH"
+    ],
+    "correct_option_index": 2,
+    "explanation": "FNR (Ferredoxin-NADP⁺ reductase) is an enzyme that catalyzes the reduction of NADP⁺ to NADPH using electrons from ferredoxin.",
+    "explanation_block_uid": "8Dac0Q0WM",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "faYAUReIG",
+    "question": "All of the following are plants or internal factors affecting photosynthesis, except?",
+    "options": [
+      "internal CO₂ concentration",
+      "orientation of leaves",
+      "availability of water",
+      "amount of chlorophyll"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Availability of water is an external factor. Internal factors include chlorophyll content, CO₂ concentration inside the leaf, and leaf anatomy.",
+    "explanation_block_uid": "6Mrq4rwL0",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rfqMw0Xsh",
+    "question": "Match List-I with List-II?",
+    "options": [
+      "A-II, B-I, C-III, D-IV",
+      "A-III, B-I, C-II, D-IV",
+      "A-IV, B-II, C-I, D-III",
+      "A-III, B-II, C-I, D-IV"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Calvin cycle happens in stroma; NADP reductase on the stroma side of thylakoid; cyclic photophosphorylation in stroma lamellae; water splitting on inner thylakoid membrane.",
+    "explanation_block_uid": "pNk9Nst56",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Njh8grD7p",
+    "question": "How many molecules of ATP and NADPH are required for the synthesis of one molecule of glucose in the Calvin cycle?",
+    "options": [
+      "3 molecules of ATP and 2 molecules of NADPH",
+      "2 molecules of ATP and 3 molecules of NADPH",
+      "18 molecules of ATP and 12 molecules of NADPH",
+      "12 molecules of ATP and 18 molecules of NADPH"
+    ],
+    "correct_option_index": 2,
+    "explanation": "To make one glucose (6 carbon), the Calvin cycle turns 6 times. Each turn uses 3 ATP and 2 NADPH → total = 18 ATP & 12 NADPH.",
+    "explanation_block_uid": "3pNjQFicW",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "QreZyRYMC",
+    "question": "The first stable product of C₃ and C₄ pathway are, respectively?",
+    "options": [
+      "3-phosphoglycerate (3C) and oxaloacetate (4C)",
+      "phosphoglycolate (2C) and malic acid (4C)",
+      "aspartic acid (4C) and 3-phosphoglycerate (3C)",
+      "malic acid (4C) and oxaloacetate (4C)"
+    ],
+    "correct_option_index": 0,
+    "explanation": "C₃ plants form 3-PGA (3C) as first stable product; C₄ plants form oxaloacetate (4C).",
+    "explanation_block_uid": "ON1Q2it2Q",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yREJ2LLBR",
+    "question": "The first stable product of CO₂ fixation in plant sorghum is?",
+    "options": [
+      "oxaloacetic acid",
+      "succinic acid",
+      "phosphoglyceric acid",
+      "Phosphoenolpyruvate"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Sorghum is a C₄ plant, and its first stable product is oxaloacetic acid (4C compound).",
+    "explanation_block_uid": "hIRF4PIJ1",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YS5ZRD7HR",
+    "question": "Given below are two statements?",
+    "options": [
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct",
+      "Both Statement I and Statement II are correct",
+      "Both Statement I and Statement II are incorrect"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The principle of limiting factors was given by Blackman, not Ingenhousz. Sachs did describe action spectrum-related ideas.",
+    "explanation_block_uid": "1Fx8ZOOFI",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZYBNI7xfe",
+    "question": "Identify the incorrect statement w.r.t carboxylation?",
+    "options": [
+      "Carboxylation is the fixation of CO₂ into a stable organic intermediate",
+      "Carboxylation is the most crucial step of the Calvin cycle",
+      "Carboxylation reaction is catalysed by the enzyme RuBP carboxylase",
+      "As a result of carboxylation, ribulose 1,5-bisphosphate is formed"
+    ],
+    "correct_option_index": 3,
+    "explanation": "RuBP is the CO₂ acceptor, not the product. The product of carboxylation is 3-phosphoglycerate (PGA).",
+    "explanation_block_uid": "PP-80WRWy",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hHEiUddE2",
+    "question": "Calvin pathway occurs in?",
+    "options": [
+      "all photosynthetic plants",
+      "photosynthetic plants which have C₃ pathway only",
+      "photosynthetic plants which have C₄ pathway only",
+      "tropical plants only"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Calvin cycle or C₃ pathway is common to all photosynthetic plants — including C₃, C₄, and CAM — for fixing CO₂ in the chloroplast.",
+    "explanation_block_uid": "6IzIjP6KM",
+    "tags": [
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 11: Photosynthesis in Higher Plants",
+      "Photosynthesis"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VGJ554DXc",
+    "question": "The human skull is made up of 22 bones, the cranium and the facial bones consist of how many bones respectively?",
+    "options": [
+      "10,12",
+      "14, 8",
+      "12,10",
+      "8, 14"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The human skull has 22 bones, with 10 cranial bones and 12 facial bones.",
+    "explanation_block_uid": "Yp7tdiE4Y",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "WtYDR68vz",
+    "question": "The clavicle is articulated with the following?",
+    "options": [
+      "Xiphoid process of the sternum",
+      "Acromion of the scapula",
+      "The glenoid cavity of the scapula",
+      "Head of the humerus"
+    ],
+    "correct_option_index": 1,
+    "explanation": "By connecting the clavicle to the acromion of the scapula, a joint called the acromioclavicular joint allows movement between the shoulder and rib cage as well as increased arm reach.",
+    "explanation_block_uid": "2Mf_N99NA",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "zuTJWjEi-",
+    "question": "Hypocalcemia may lead to?",
+    "options": [
+      "Kidney stones",
+      "Cholelithiasis",
+      "Stronger muscle contractions",
+      "Tetany"
+    ],
+    "correct_option_index": 3,
+    "explanation": "While all the options listed are possible consequences of hypocalcemia, tetany is the most common. It is due to the decreased ionized calcium levels in the blood, which can result in excessive muscle contraction spasms, and convulsions.",
+    "explanation_block_uid": "icxfg1_fN",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Y0zSHq1ru",
+    "question": "The pivot joint between the atlas and the axis is a type of?",
+    "options": [
+      "fibrous joint",
+      "synovial joint",
+      "saddle joint",
+      "cartilaginous joint"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Synovial joints are characterized by a synovial cavity filled with synovial fluid, allowing for smooth movement between the articulating bones. The pivot joint allows rotational movement between the atlas (C1 vertebra) and the axis (C2 vertebra) in the cervical spine, enabling the head to rotate from side to side.",
+    "explanation_block_uid": "rkpROWzMb",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "zUVQbA-eV",
+    "question": "This ion is responsible for unmasking active sites for myosin or cross-bridge activity during muscle contraction?",
+    "options": [
+      "Potassium",
+      "Magnesium",
+      "Calcium",
+      "Sodium"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Calcium is essential for muscle contraction and is responsible for unmasking the active sites of myosin or cross-bridge activity. Calcium binds to troponin, which causes an action potential to be transmitted along the sarcomere, resulting in muscle fiber contraction.",
+    "explanation_block_uid": "8IQB6yBvX",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "H5wgdS5VE",
+    "question": "In sustained muscle contractions, there is a lack of relaxation between successive stimuli known as?",
+    "options": [
+      "fatigue",
+      "tonus",
+      "tetanus",
+      "spasm"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Tetanus is a sustained muscle contraction caused by the repeated stimulation of a motor unit. Without relaxation between successive stimuli, it leads to fatigue in the affected muscle.",
+    "explanation_block_uid": "YMU5udM6x",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7XfqAvB5u",
+    "question": "A motor neuron stimulates a muscle fiber at?",
+    "options": [
+      "the sarcoplasmic reticulum",
+      "the myofibril",
+      "the transverse tubules",
+      "the neuromuscular junction"
+    ],
+    "correct_option_index": 3,
+    "explanation": "When a motor neuron stimulates a muscle fiber, the axon terminal of the motor neuron meets the muscle fiber at the neuromuscular junction. An action potential causes an electrical stimulus that causes neurotransmitters to release, which then activate muscle contractions.",
+    "explanation_block_uid": "Da2qop0u3",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "G-0DSVyU5",
+    "question": "Humans have the most prominent sesamoid bone, the?",
+    "options": [
+      "Pelvis",
+      "Femur",
+      "Ulna",
+      "Patella"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The Patella is the most prominent and located between the femur and tibia, it is an integral part of your knee joint and helps provide stability and movement while walking or running. Locomotion And Movement will help you further understand musculoskeletal anatomy, so you can better understand how different bones move with each other for better mobility.",
+    "explanation_block_uid": "OXUG4_g_Q",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-TM9pFFbT",
+    "question": "The skull's _______ is the only part that can move?",
+    "options": [
+      "Nasal Conchae",
+      "Mandible",
+      "Vomer",
+      "Maxilla"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The mandible, commonly known as the lower jawbone, is the only movable skull part. The mandible is a bone that forms the lower part of the skull and is connected to the rest of the skull through a joint called the temporomandibular joint (TMJ).In addition to the mandible, the nasal conchae, vomer, and maxilla are also bones of the skull that move up and down and side to side, enabling functions like chewing, speaking, and facial expressions.",
+    "explanation_block_uid": "urOk9jGPl",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "9vn14Ui8D",
+    "question": "Skeletal muscle bundles are held together by a standard connective tissue layer called?",
+    "options": [
+      "Perimysium",
+      "Endomysium",
+      "Fascia",
+      "Aponeurosis"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Skeletal muscle bundles, or fascicles, are held together by a standard connective tissue layer called the perimysium. The perimysium is a dense irregular connective tissue that surrounds and supports each fascicle within a muscle.",
+    "explanation_block_uid": "wUlpUjrW2",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Wr_2ds9Jf",
+    "question": "What is the incorrect set of antagonistic muscles?",
+    "options": [
+      "Flexor - Relaxor",
+      "Abductor - Adductor",
+      "Pronator - Supinator",
+      "Levator - Depressor"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The correct term for the muscle that opposes or acts in opposition to a flexor muscle is an extensor, not a relaxor. The extensor muscle extends or straightens a joint, while the flexor muscle bends or flexes a joint.",
+    "explanation_block_uid": "cXRJ0m8Tw",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "M1-2g3jwD",
+    "question": "Select the correct statement regarding the specific muscular or skeletal disorder?",
+    "options": [
+      "Gout — inflammation of joints caused by calcium deposition",
+      "Muscular dystrophy — age-related shortening of muscles",
+      "Osteoporosis — decreased bone mass and a higher risk of fractures with aging",
+      "Myasthenia gravis — an autoimmune disorder that affects myosin filament sliding"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Gout is actually characterized by inflammation of joints due to the deposition of uric acid crystals, not calcium.",
+    "explanation_block_uid": "Gm38gf_vd",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "a6Crh2eeR",
+    "question": "This is the correct description of a certain part of a normal human skeleton?",
+    "options": [
+      "Glenoid activity is a depression to which the thigh bone articulates",
+      "the first vertebra is the axis which articulates with the occipital condyles",
+      "the 9th and 10th pairs of ribs are called the floating ribs",
+      "The parietal bone and the temporal bone of the skull are joined by a fibrous joint"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The glenoid cavity is a depression in the scapula (shoulder blade) to which the humerus (upper arm bone) articulates.",
+    "explanation_block_uid": "kBDSQFuvk",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yE0N2KXmY",
+    "question": "All of the following lengths are reduced during muscle contraction except for?",
+    "options": [
+      "H-Zone",
+      "A-Band",
+      "Band",
+      "Sacromere"
+    ],
+    "correct_option_index": 1,
+    "explanation": "During muscle contraction, the length of the H-Zone and I-Band minimize while the length of the A-Band and sarcomere remain largely unchanged.",
+    "explanation_block_uid": "Okoi2cM32",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qst4G6G6s",
+    "question": "The clavicle is articulated with the?",
+    "options": [
+      "Xiphoid process of the sternum",
+      "Acromion of the scapula",
+      "The glenoid cavity of the scapula",
+      "Head of the humerus"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The clavicle, also known as the collarbone, is articulated with the acromion of the scapula. The acromion is the bony process of the scapula that forms the highest point of the shoulder. In addition to connecting the upper limb to the axial skeleton, the clavioclavicular joint also allows shoulder movement.",
+    "explanation_block_uid": "2Pm_BPTKm",
+    "tags": [
+      "Chapter 17: Locomotion and Movement",
+      "11th Biology",
+      "MCQs",
+      "Biology"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Biology",
+      "11th Biology",
+      "Chapter 17: Locomotion and Movement"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "g8Kkc68ru",
+    "question": "The current passing through the battery in the given circuit, is:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamneet%2F1K1vtVzL9Q.png?alt=media&token=81d7dc94-27cd-408a-a056-469af38e6d57) ??",
+    "options": [
+      "1.5 A",
+      "2.0 A",
+      "0.5 A",
+      "2.5 A"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Answer is: 0.5A\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamneet%2FaXZbyknh9o.png?alt=media&token=ed3c9c2b-ff54-4db2-8933-31d0b81095f7)",
+    "explanation_block_uid": "InfoKnrGB",
+    "tags": [
+      "Current",
+      "Voltage",
+      "Physics",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Physics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "KHQDJXCVp",
+    "question": "The electric field in a plane electromagnetic wave is given by\nE_z = 60 cos (5x + 1.5 x 10^9 t) V/m.\nThen the expression for the corresponding magnetic field is (here subscripts denote the direction of the field) :\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamneet%2FKMmjBJqivN.png?alt=media&token=205b9c84-5cd7-48e0-8a46-c0cc2824fe77) ??",
+    "options": [
+      "B_y = 60 sin (5x + 1.5 x 10^9 t)T",
+      "B_y = 2 x 10^-7 cos (5x + 1.5 x 10^9 t)T",
+      "B_x = 2 x 10^-7 cos (5x + 1.5 x 10^9 t)T",
+      "B_z = 60Cos (5x + 1.5 x 10^9 t)T"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Answer is option B\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamneet%2FALipoc4sJi.png?alt=media&token=290d3088-705a-4566-87a2-c223c4b1d08e)",
+    "explanation_block_uid": "bjyFSiyNt",
+    "tags": [
+      "Physics",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Physics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CTDa0J095",
+    "question": "A pipe open at both ends has a fundamental frequency \"f\" in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental frequency of the air column is now equal to?",
+    "options": [
+      "2f",
+      "f/2",
+      "f",
+      "3f/2"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Answer is \"f\"\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamneet%2FO0zoYEpMur.png?alt=media&token=8d99fe44-2b65-4fc2-b836-1060ea7d63c4)",
+    "explanation_block_uid": "ZNWjMOtN1",
+    "tags": [
+      "Physics",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Physics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "eEThT8V0O",
+    "question": "Given below are two statements :\nStatement I : A hypothetical diatomic molecule with bond order zero is quite stable.\nStatement II : As bond order increases, the bond length increases.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below: ??",
+    "options": [
+      "Statement I is false but Statement II is true",
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is true but Statement II is false"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Both Statement I and Statement II are false\n\nBond order zero in a diatomic molecule indicates no net bonding interaction (e.g., He2), so the molecule is **unstable** and does not form, making Statement I false. \n\n**Bond length decreases as bond order increases** because higher bond order implies stronger attraction and shorter distance between atoms (e.g., C-C single bond is longer than C=C double bond), making Statement II false.",
+    "explanation_block_uid": "432-PrPVo",
+    "tags": [
+      "Chemistry",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Chemistry"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rJJQcbny0",
+    "question": "The ratio of the wavelengths of the light absorbed by a Hydrogen atom when it undergoes n = 2 → n = 3 and n = 4 → n = 6 transitions, respectively, is ?",
+    "options": [
+      "1/4",
+      "1/36",
+      "1/16",
+      "1/9"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The wavelength of light absorbed in a hydrogen atom transition is given by the Rydberg formula: 1/λ = R (1/n_lower² - 1/n_upper²), where R is the Rydberg constant.\n\nFor the n=2 to n=3 transition:  \n1/λ₁ = R (1/2² - 1/3²) = R (1/4 - 1/9) = R (9/36 - 4/36) = R (5/36)  \nThus, λ₁ = 36/(5R)\n\nFor the n=4 to n=6 transition:  \n1/λ₂ = R (1/4² - 1/6²) = R (1/16 - 1/36) = R (36/576 - 16/576) = R (20/576) = R (5/144)  \nThus, λ₂ = 144/(5R)\n\nThe ratio λ₁ / λ₂ = [36/(5R)] / [144/(5R)] = 36/144 = 1/4",
+    "explanation_block_uid": "a_knhYvYY",
+    "tags": [
+      "Chemistry",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Chemistry"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "aWr1QIBXN",
+    "question": "The correct order of the wavelength of light absorbed by the following complexes is,\nA. [Co(NH3)6]3+\nB. [Co(CN)6]3–\nC. [Cu(H2O)4]2+\nD. [Ti(H2O)6]3+\nChoose the correct answer from the options given below: ??",
+    "options": [
+      "C < A < D < B",
+      "B < D < A < C",
+      "B < A < D < C",
+      "C < D < A < B"
+    ],
+    "correct_option_index": 2,
+    "explanation": "⇒ λ = (1/ strength of ligand)\n⇒ λ = (1/ spitting)\nA. [Co(NH3)6]3+ ; 475 nm\nB. [Co(CN)6]3– ; 310 nm\nC. [Cu(H2O)4]2+ ; 600 nm\nD. [Ti(H2O)6]3+ ; 498 nm\n\nOrder of λ = C > D > A > B",
+    "explanation_block_uid": "UqezZwzHy",
+    "tags": [
+      "Chemistry",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Chemistry"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "zA21gEUtI",
+    "question": "If the rate constant of a reaction is 0.03 s⁻¹, how much time does it take for 7.2 mol L⁻¹ concentration of the reactant to get reduced to 0.9 mol L⁻¹.\n(Given: log 2 = 0.301) ??",
+    "options": [
+      "21.0 s",
+      "69.3 s",
+      "23.1 s",
+      "210 s"
+    ],
+    "correct_option_index": 1,
+    "explanation": "This is a first order reaction because the unit of rate constant is s⁻¹.\nFor first order reaction:\nt = (2.303 / k) × log([A]0 / [A])\nHere, [A]0 = 7.2 mol L⁻¹\n[A] = 0.9 mol L⁻¹\nSo, [A]0 / [A] = 7.2 / 0.9 = 8\nlog 8 = log(2^3) = 3 × log 2 = 3 × 0.301 = 0.903\nt = (2.303 / 0.03) × 0.903 \n= 76.767 × 0.903 \n^^= 69.3 seconds^^\n\nAlternatively:\nConcentration reduces to 1/8th, which means 3 half-lives (because 2^3 = 8).\nHalf-life  t1/2 = 0.693 / k = 0.693 / 0.03 = 23.1 s\nTotal time = 3 × 23.1 = 69.3 seconds\nFinal answer is 69.3 seconds.",
+    "explanation_block_uid": "HGt1lk3QX",
+    "tags": [
+      "Chemistry",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Chemistry"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CkiULjcsm",
+    "question": "Which one of the following compounds can exist as cis-trans isomers?",
+    "options": [
+      "1, 2-Dimethylcyclohexane",
+      "Pent-1-ene",
+      "2-Methylhex-2-ene",
+      "1, 1-Dimethylcyclopropane"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Correct answer is: 1, 2-Dimethylcyclohexane\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamneet%2FQOC8gZiq4w.png?alt=media&token=57093a81-56dc-4fc2-819c-60c22586b6ed)",
+    "explanation_block_uid": "fRtpBcLJp",
+    "tags": [
+      "Chemistry",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Chemistry"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "niwpi1i2L",
+    "question": "Among the following, choose the ones with equal number of atoms.\nA. 212 g of Na₂CO₃(s) [molar mass = 106 g]\nB. 248 g of Na₂O(s) [molar mass = 62 g]\nC. 240 g of NaOH(s) [molar mass = 40 g]\nD. 12 g of H₂(g) [molar mass = 2 g]\nE. 220 g of CO₂(g) [molar mass = 44 g]\n\nChoose the correct answer from the options given below: ??",
+    "options": [
+      "B, D, and E only",
+      "A, B, and C only",
+      "A, B, and D only",
+      "B, C, and D only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Chemistry",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Chemistry"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "lXC1ou1DY",
+    "question": "Which of the following is the unit of productivity of an ecosystem?",
+    "options": [
+      "(KCal m⁻²)y⁻¹",
+      "gm⁻²",
+      "KCal m⁻³",
+      "KCal m⁻³"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The rate of biomass production of different ecosystems. \nIt is expressed in terms of [(gm⁻²)y⁻¹] or [(KCal m⁻²)y⁻¹] to compare the productivity of different ecosystems.",
+    "explanation_block_uid": "Ak1-m2Ie-",
+    "tags": [
+      "Biology",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Biology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "auzJReCRC",
+    "question": "The first menstruation is called?",
+    "options": [
+      "Ovulation",
+      "Menopause",
+      "Menarche",
+      "Diapause"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The first menstruation begins at puberty and is called menarche.\n - **Ovulation** is the process that occurs with the rupture of mature Graafian follicle.\n - **Menopause** is the cessation of menstrual cycles, around 50 years of age that is termed as menopause.\n - **Diapause** is a stage of dormant or delayed development in arthropods during adverse conditions.",
+    "explanation_block_uid": "JPgpKtDHc",
+    "tags": [
+      "Biology",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Biology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XjtaNlbh0",
+    "question": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).\nAssertion (A) : All vertebrates are chordates but all chordates are not vertebrate.\nReason (R) : The members of subphylum vertebrata possess notochord during the embryonic period, the notochord is replaced by cartilaginous or bony vertebral column in adults.\nIn the light of the above statements, choose the correct answer from the options given below: ??",
+    "options": [
+      "(A) is false but (R) is true",
+      "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+      "(A) is true but (R) is false"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Both (A) and (R) are true and (R) is the correct explanation of (A).\nThe members of subphylum vertebrata possess notochord during the embryonic period. The notochord is\nreplaced by a cartilaginous or bony vertebral column in the adult.\nThus, all vertebrates are chordates but all chordates are not vertebrates.",
+    "explanation_block_uid": "xf8f_QgsW",
+    "tags": [
+      "Biology",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Biology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "wWtYn6UBA",
+    "question": "Genes R and Y follow independent assortment. If RRYY produce round yellow seeds and rryy produce wrinkled green seeds, what will be the phenotypic ratio of the F2 generation?",
+    "options": [
+      "Phenotypic ratio - 9 : 7",
+      "Phenotypic ratio - 1 : 2 : 1",
+      "Phenotypic ratio - 3 : 1",
+      "Phenotypic ratio - 9 : 3 : 3 : 1"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The phenotypic ratio of the F2 generation in a dihybrid cross of independent genes (RRYY and rryy) is 9:3:3:1. This ratio consists of 9 round/yellow, 3 round/green, 3 wrinkled/yellow, and 1 wrinkled/green seed phenotypes, resulting from the self-pollination of the F1 heterozygous (RrYy) plants.",
+    "explanation_block_uid": "_sST0sHcp",
+    "tags": [
+      "Biology",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Biology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "JItcLPDUV",
+    "question": "Given below are two statements :\nStatement I : The DNA fragments extracted from gel electrophoresis can be used in construction of recombinant DNA.\nStatement II : Smaller size DNA fragments are observed near anode while larger fragments are found near the wells in an agarose gel.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below: ??",
+    "options": [
+      "Statement I is incorrect but statement II is correct",
+      "Both statement I and statement II are correct",
+      "Both statement I and statement II are incorrect",
+      "Statement I is correct but statement II is incorrect"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The cutting of DNA by restriction endonucleases results in the fragments of DNA. \nThese fragments can be separated by a technique known as gel electrophoresis.\nThe separated bands of DNA are cut out from the agarose gel and extracted from the gel piece. This step is known as elution. The DNA fragments purified in this way are used in constructing rDNA by joining them with cloning vectors.\n\nIn gel electrophoresis, the DNA fragments separate (resolve) according to their size through sieving effect provided by the agarose gel. Hence, the smaller the fragment size, the farther it moves from cathode towards anode.",
+    "explanation_block_uid": "pcn7jztfq",
+    "tags": [
+      "DNA",
+      "Biology",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Biology"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "fkvArjuVr",
+    "question": "What is the main function of the spindle fibers during mitosis?",
+    "options": [
+      "To regulate cell growth",
+      "To separate the chromosomes",
+      "To synthesize new DNA",
+      "To repair damaged DNA"
+    ],
+    "correct_option_index": 1,
+    "explanation": "During mitosis, spindle fibre get attach to the kinetochores of the chromosome and help in the separation of\nthe chromosome.",
+    "explanation_block_uid": "wxARzwP-m",
+    "tags": [
+      "Biology",
+      "NEET 2025",
+      "MCQs",
+      "NEET",
+      "pyq"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "NEET",
+      "pyq",
+      "NEET 2025",
+      "Biology"
     ],
     "isPassageBased": false
   }
