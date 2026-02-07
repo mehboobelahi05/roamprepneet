@@ -1,56 +1,12 @@
 [
   {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph106.pdf",
-    "uid": "vpFdnJJrL",
-    "title": "Chapter 6: System of Particles and Rotational Motion",
-    "chapters": [
-      "Chapter 6: System of Particles and Rotational Motion"
-    ]
-  },
-  {
     "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo113.pdf",
-    "uid": "N9J-8ivsc",
-    "title": "Chapter 13: Plant Growth and Development",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo101.pdf",
+    "uid": "dUsqbJWOt",
+    "title": "Chapter 1: The Living World",
+    "id": "dUsqbJWOt",
     "chapters": [
-      "Chapter 13: Plant Growth and Development"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo103.pdf",
-    "uid": "LeL492vi-",
-    "title": "Chapter 3: Plant Kingdom",
-    "chapters": [
-      "Chapter 3: Plant Kingdom"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo112.pdf",
-    "uid": "zQs_TrR6B",
-    "title": "Chapter 12: Respiration in Plants",
-    "chapters": [
-      "Chapter 12: Respiration in Plants"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech205.pdf",
-    "uid": "UzOu3IcqR",
-    "title": "Chapter 10: Biomolecules",
-    "chapters": [
-      "Chapter 10: Biomolecules"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech102.pdf",
-    "uid": "1oxT8HAie",
-    "title": "Chapter 2: Structure of Atom",
-    "chapters": [
-      "Chapter 2: Structure of Atom"
+      "Chapter 1: The Living World"
     ]
   },
   {
@@ -58,491 +14,19 @@
     "url": "https://ncert.nic.in/textbook/pdf/lebo102.pdf",
     "uid": "c4NGVhXDL",
     "title": "Chapter 2: Biological Classification",
+    "id": "c4NGVhXDL",
     "chapters": [
       "Chapter 2: Biological Classification"
     ]
   },
   {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph202.pdf",
-    "uid": "P0_GqX9h-",
-    "title": "Chapter 10: Wave Optics",
-    "chapters": [
-      "Chapter 10: Wave Optics"
-    ]
-  },
-  {
     "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo111.pdf",
-    "uid": "TVV5E5y1l",
-    "title": "Chapter 11: Photosynthesis in Higher Plants",
-    "chapters": [
-      "Chapter 11: Photosynthesis in Higher Plants"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph205.pdf",
-    "uid": "xOlEybOA4",
-    "title": "Chapter 12: Kinetic Theory",
-    "chapters": [
-      "Chapter 12: Kinetic Theory"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo213.pdf",
-    "uid": "ICLdwwLQ5",
-    "title": "Chapter 13: Biodiversity and Conservation",
-    "chapters": [
-      "Chapter 13: Biodiversity and Conservation"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo210.pdf",
-    "uid": "XBiUlirWy",
-    "title": "Chapter 10: Biotechnology and its Applications",
-    "chapters": [
-      "Chapter 10: Biotechnology and its Applications"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph104.pdf",
-    "uid": "2Tx_NfecK",
-    "title": "Chapter 4: Laws of Motion",
-    "chapters": [
-      "Chapter 4: Laws of Motion"
-    ]
-  },
-  {
-    "category": "",
-    "url": "",
-    "uid": "WDDoQi0DD",
-    "title": ""
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph101.pdf",
-    "uid": "nC_wO8IP7",
-    "title": "Chapter 1: Electric Charges and Fields",
-    "chapters": [
-      "Chapter 1: Electric Charges and Fields"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo110.pdf",
-    "uid": "lhwE6WVMd",
-    "title": "Chapter 10: Cell Cycle and Cell Division",
-    "chapters": [
-      "Chapter 10: Cell Cycle and Cell Division"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph203.pdf",
-    "uid": "rQKp9Mv0R",
-    "title": "Chapter 10: Thermal Properties of Matter",
-    "chapters": [
-      "Chapter 10: Thermal Properties of Matter"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://drive.google.com/file/d/1uAhfrgzPrBPvjzee2kFS19yqYNgs0whK/view?usp=sharing",
-    "uid": "PzMYV8din",
-    "title": "Chapter 2: Biological Classification",
-    "chapters": [
-      "Chapter 2: Biological Classification"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph202.pdf",
-    "uid": "Wdr7ZIviM",
-    "title": "Chapter 9: Mechanical Properties of Fluids",
-    "chapters": [
-      "Chapter 9: Mechanical Properties of Fluids"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech106.pdf",
-    "uid": "I6YqsdVyx",
-    "title": "Chapter 6: Equilibrium",
-    "chapters": [
-      "Chapter 6: Equilibrium"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph102.pdf",
-    "uid": "4i3-hePEn",
-    "title": "Chapter 2: Motion in a Straight Line",
-    "chapters": [
-      "Chapter 2: Motion in a Straight Line"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo211.pdf",
-    "uid": "7dOugR0cO",
-    "title": "Chapter 11: Organisms and Populations",
-    "chapters": [
-      "Chapter 11: Organisms and Populations"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo118.pdf",
-    "uid": "ufkOB2XJ_",
-    "title": "Chapter 18: Neural Control and Coordination",
-    "chapters": [
-      "Chapter 18: Neural Control and Coordination"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://drive.google.com/file/d/1nxR66ny0jNP2dnAx92x9wi1_toan5bvU/view?usp=sharing",
-    "uid": "kf-orauK6",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo103.pdf",
+    "uid": "LeL492vi-",
     "title": "Chapter 3: Plant Kingdom",
+    "id": "LeL492vi-",
     "chapters": [
       "Chapter 3: Plant Kingdom"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://drive.google.com/file/d/18FaDHKo0ni7pCPqgrkgs_vrM391EfaJ1/view?usp=sharing",
-    "uid": "wPMRyDbX5",
-    "title": "Chapter 5: Morphology of Flowering Plant",
-    "chapters": [
-      "Chapter 5: Morphology of Flowering Plant"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech204.pdf",
-    "uid": "VY8MSVchL",
-    "title": "Chapter 9: Amines",
-    "chapters": [
-      "Chapter 9: Amines"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo105.pdf",
-    "uid": "NOpOe8ebI",
-    "title": "Chapter 5: Morphology of Flowering Plants",
-    "chapters": [
-      "Chapter 5: Morphology of Flowering Plants"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo117.pdf",
-    "uid": "GfurG2caT",
-    "title": "Chapter 17: Locomotion and Movement",
-    "chapters": [
-      "Chapter 17: Locomotion and Movement"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph206.pdf",
-    "uid": "eCiDA3cGC",
-    "title": "Chapter 13: Oscillations",
-    "chapters": [
-      "Chapter 13: Oscillations"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph102.pdf",
-    "uid": "hZ2H0p9Sq",
-    "title": "Chapter 2: Electrostatic Potential and Capacitance",
-    "chapters": [
-      "Chapter 2: Electrostatic Potential and Capacitance"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech105.pdf",
-    "uid": "TjLBhUOzN",
-    "title": "Chapter 5: Chemical Thermodynamics",
-    "chapters": [
-      "Chapter 5: Chemical Thermodynamics"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech203.pdf",
-    "uid": "w3o0R3JDS",
-    "title": "Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
-    "chapters": [
-      "Chapter 8: Aldehydes, Ketones and Carboxylic Acids"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech203.pdf",
-    "uid": "kDwSO_Ejx",
-    "title": "Chapter 9: Hydrocarbons",
-    "chapters": [
-      "Chapter 9: Hydrocarbons"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://drive.google.com/file/d/1Xo5mi0ffz0rFTH5eZsCjT4oBBcRipqT9/view?usp=sharing",
-    "uid": "QB_VOXyRk",
-    "title": "Chapter 1: The Living World",
-    "chapters": [
-      "Chapter 1: The Living World"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo115.pdf",
-    "uid": "Q-sCP3Mmn",
-    "title": "Chapter 15: Body Fluids and Circulation",
-    "chapters": [
-      "Chapter 15: Body Fluids and Circulation"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo201.pdf",
-    "uid": "nalNUGfQY",
-    "title": "Chapter 1: Sexual Reproduction in Flowering Plants",
-    "chapters": [
-      "Chapter 1: Sexual Reproduction in Flowering Plants"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph107.pdf",
-    "uid": "GlUqEIqFQ",
-    "title": "Chapter 7: Alternating Current",
-    "chapters": [
-      "Chapter 7: Alternating Current"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo114.pdf",
-    "uid": "K1ugUPyxw",
-    "title": "Chapter 14: Breathing and Exchange of Gases",
-    "chapters": [
-      "Chapter 14: Breathing and Exchange of Gases"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo212.pdf",
-    "uid": "YCRKzoofu",
-    "title": "Chapter 12: Ecosystem",
-    "chapters": [
-      "Chapter 12: Ecosystem"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech201.pdf",
-    "uid": "C3Aq8d5Jh",
-    "title": "Chapter 6: Haloalkanes and Haloarenes",
-    "chapters": [
-      "Chapter 6: Haloalkanes and Haloarenes"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph204.pdf",
-    "uid": "Wz2DyvuN6",
-    "title": "Chapter 11: Thermodynamics",
-    "chapters": [
-      "Chapter 11: Thermodynamics"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph105.pdf",
-    "uid": "dnIm2V4HC",
-    "title": "Chapter 5: Magnetism and Matter",
-    "chapters": [
-      "Chapter 5: Magnetism and Matter"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo209.pdf",
-    "uid": "feM_Rhp5K",
-    "title": "Chapter 9: Biotechnology: Principles and Processes",
-    "chapters": [
-      "Chapter 9: Biotechnology: Principles and Processes"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph201.pdf",
-    "uid": "ePP5EbZGN",
-    "title": "Chapter 8: Mechanical Properties of Solids",
-    "chapters": [
-      "Chapter 8: Mechanical Properties of Solids"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech201.pdf",
-    "uid": "exh9Rl8TZ",
-    "title": "Chapter 7: Redox Reactions",
-    "chapters": [
-      "Chapter 7: Redox Reactions"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph106.pdf",
-    "uid": "otApC4naS",
-    "title": "Chapter 6: Electromagnetic Induction",
-    "chapters": [
-      "Chapter 6: Electromagnetic Induction"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph206.pdf",
-    "uid": "ygo313_y7",
-    "title": "Chapter 14: Semiconductor Electronics",
-    "chapters": [
-      "Chapter 14: Semiconductor Electronics"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph108.pdf",
-    "uid": "ApbBPsdpc",
-    "title": "Chapter 8: Electromagnetic Waves",
-    "chapters": [
-      "Chapter 8: Electromagnetic Waves"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://drive.google.com/file/d/1bEctRdj2cydL_libvjevcHEV7B2xsHEe/view?usp=sharing #rppdfs",
-    "uid": "qSERFpK5J",
-    "title": "Chapter 6: Anatomy of Flowering Plants",
-    "chapters": [
-      "Chapter 6: Anatomy of Flowering Plants"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo205.pdf",
-    "uid": "scdI1ENyK",
-    "title": "Chapter 5: Molecular Basis of Inheritance",
-    "chapters": [
-      "Chapter 5: Molecular Basis of Inheritance"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo109.pdf",
-    "uid": "ZsP1qeznv",
-    "title": "Chapter 9: Biomolecules",
-    "chapters": [
-      "Chapter 9: Biomolecules"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo202.pdf",
-    "uid": "uwp0kiJ1r",
-    "title": "Chapter 2: Human Reproduction",
-    "chapters": [
-      "Chapter 2: Human Reproduction"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph201.pdf",
-    "uid": "c0wVPGwyB",
-    "title": "Chapter 9: Ray Optics and Optical Instruments",
-    "chapters": [
-      "Chapter 9: Ray Optics and Optical Instruments"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph104.pdf",
-    "uid": "vhYaw0Yam",
-    "title": "Chapter 4: Moving Charges and Magnetism",
-    "chapters": [
-      "Chapter 4: Moving Charges and Magnetism"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph105.pdf",
-    "uid": "gI1JOicLY",
-    "title": "Chapter 5: Work, Energy and Power",
-    "chapters": [
-      "Chapter 5: Work, Energy and Power"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph107.pdf",
-    "uid": "4f4bzEasx",
-    "title": "Chapter 7: Gravitation",
-    "chapters": [
-      "Chapter 7: Gravitation"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph203.pdf",
-    "uid": "lcBm4ltt_",
-    "title": "Chapter 11: Dual Nature of Radiation and Matter",
-    "chapters": [
-      "Chapter 11: Dual Nature of Radiation and Matter"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph207.pdf",
-    "uid": "OfJ5iq_r1",
-    "title": "Chapter 14: Waves",
-    "chapters": [
-      "Chapter 14: Waves"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech101.pdf",
-    "uid": "twI7E8lsL",
-    "title": "Chapter 1: Solutions",
-    "chapters": [
-      "Chapter 1: Solutions"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo101.pdf",
-    "uid": "dUsqbJWOt",
-    "title": "Chapter 1: The Living World",
-    "chapters": [
-      "Chapter 1: The Living World"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech103.pdf",
-    "uid": "xEYeiEXVy",
-    "title": "Chapter 3: Chemical Kinetics",
-    "chapters": [
-      "Chapter 3: Chemical Kinetics"
     ]
   },
   {
@@ -550,8 +34,19 @@
     "url": "https://ncert.nic.in/textbook/pdf/lebo104.pdf",
     "uid": "sZJQznJW6",
     "title": "Chapter 4: Animal Kingdom",
+    "id": "sZJQznJW6",
     "chapters": [
       "Chapter 4: Animal Kingdom"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo105.pdf",
+    "uid": "NOpOe8ebI",
+    "title": "Chapter 5: Morphology of Flowering Plants",
+    "id": "NOpOe8ebI",
+    "chapters": [
+      "Chapter 5: Morphology of Flowering Plants"
     ]
   },
   {
@@ -559,62 +54,9 @@
     "url": "https://ncert.nic.in/textbook/pdf/lebo106.pdf",
     "uid": "332ltXibP",
     "title": "Chapter 6: Anatomy of Flowering Plants",
+    "id": "332ltXibP",
     "chapters": [
       "Chapter 6: Anatomy of Flowering Plants"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph205.pdf",
-    "uid": "0E3w4Xfne",
-    "title": "Chapter 13: Nuclei",
-    "chapters": [
-      "Chapter 13: Nuclei"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo119.pdf",
-    "uid": "PSkoaRceB",
-    "title": "Chapter 19: Chemical Coordination and Integration",
-    "chapters": [
-      "Chapter 19: Chemical Coordination and Integration"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo207.pdf",
-    "uid": "JatrSMeLn",
-    "title": "Chapter 7: Human Health and Disease",
-    "chapters": [
-      "Chapter 7: Human Health and Disease"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech103.pdf",
-    "uid": "6DQ9LOLpB",
-    "title": "Chapter 3: Classification of Elements and Periodicity in Properties",
-    "chapters": [
-      "Chapter 3: Classification of Elements and Periodicity in Properties"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech101.pdf",
-    "uid": "JibVfga_p",
-    "title": "Chapter 1: Some Basic Concepts of Chemistry",
-    "chapters": [
-      "Chapter 1: Some Basic Concepts of Chemistry"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech102.pdf",
-    "uid": "hiHoCPST6",
-    "title": "Chapter 2: Electrochemistry",
-    "chapters": [
-      "Chapter 2: Electrochemistry"
     ]
   },
   {
@@ -622,80 +64,9 @@
     "url": "https://ncert.nic.in/textbook/pdf/lebo107.pdf",
     "uid": "bHVXsJe-_",
     "title": "Chapter 7: Structural Organisation in Animals",
+    "id": "bHVXsJe-_",
     "chapters": [
       "Chapter 7: Structural Organisation in Animals"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech202.pdf",
-    "uid": "u2oyk51hx",
-    "title": "Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
-    "chapters": [
-      "Chapter 8: Organic Chemistry: Some Basic Principles and Techniques"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph103.pdf",
-    "uid": "i_4HiIS0J",
-    "title": "Chapter 3: Motion in a Plane",
-    "chapters": [
-      "Chapter 3: Motion in a Plane"
-    ]
-  },
-  {
-    "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo203.pdf",
-    "uid": "wAZN9BzHT",
-    "title": "Chapter 3: Reproductive Health",
-    "chapters": [
-      "Chapter 3: Reproductive Health"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech202.pdf",
-    "uid": "xmCVx40KW",
-    "title": "Chapter 7: Alcohols, Phenols and Ethers",
-    "chapters": [
-      "Chapter 7: Alcohols, Phenols and Ethers"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph101.pdf",
-    "uid": "inRfWVMaR",
-    "title": "Chapter 1: Units and Measurements",
-    "chapters": [
-      "Chapter 1: Units and Measurements"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech104.pdf",
-    "uid": "auuJrd5r7",
-    "title": "Chapter 4: The d-and f-Block Elements",
-    "chapters": [
-      "Chapter 4: The d-and f-Block Elements"
-    ]
-  },
-  {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech104.pdf",
-    "uid": "Jdomp_ZVb",
-    "title": "Chapter 4: Chemical Bonding and Molecular Structure",
-    "chapters": [
-      "Chapter 4: Chemical Bonding and Molecular Structure"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph204.pdf",
-    "uid": "s9ojwJ6bj",
-    "title": "Chapter 12: Atoms",
-    "chapters": [
-      "Chapter 12: Atoms"
     ]
   },
   {
@@ -703,53 +74,79 @@
     "url": "https://ncert.nic.in/textbook/pdf/lebo108.pdf",
     "uid": "4hIi_xoJN",
     "title": "Chapter 8: Cell: The Unit of Life",
+    "id": "4hIi_xoJN",
     "chapters": [
       "Chapter 8: Cell: The Unit of Life"
     ]
   },
   {
-    "category": "Chemistry",
-    "url": "https://ncert.nic.in/textbook/pdf/lech105.pdf",
-    "uid": "C79W6OlNo",
-    "title": "Chapter 5: Coordination Compounds",
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo109.pdf",
+    "uid": "ZsP1qeznv",
+    "title": "Chapter 9: Biomolecules",
+    "id": "ZsP1qeznv",
     "chapters": [
-      "Chapter 5: Coordination Compounds"
-    ]
-  },
-  {
-    "category": "Physics",
-    "url": "https://ncert.nic.in/textbook/pdf/leph103.pdf",
-    "uid": "7M8Seq1Mp",
-    "title": "Chapter 3: Current Electricity",
-    "chapters": [
-      "Chapter 3: Current Electricity"
+      "Chapter 9: Biomolecules"
     ]
   },
   {
     "category": "Biology",
-    "url": "https://drive.google.com/file/d/10EeXJTVec2mrNDicuPW4uhWB6_cfMAMo/view?usp=sharing",
-    "uid": "vzrumjs7t",
-    "title": "Chapter 4: Animal Kingdom",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo110.pdf",
+    "uid": "lhwE6WVMd",
+    "title": "Chapter 10: Cell Cycle and Cell Division",
+    "id": "lhwE6WVMd",
     "chapters": [
-      "Chapter 4: Animal Kingdom"
+      "Chapter 10: Cell Cycle and Cell Division"
     ]
   },
   {
     "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo206.pdf",
-    "uid": "g5MwdT_HW",
-    "title": "Chapter 6: Evolution",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo111.pdf",
+    "uid": "TVV5E5y1l",
+    "title": "Chapter 11: Photosynthesis in Higher Plants",
+    "id": "TVV5E5y1l",
     "chapters": [
-      "Chapter 6: Evolution"
+      "Chapter 11: Photosynthesis in Higher Plants"
     ]
   },
   {
     "category": "Biology",
-    "url": "https://ncert.nic.in/textbook/pdf/lebo208.pdf",
-    "uid": "JEA8-qmGE",
-    "title": "Chapter 8: Microbes in Human Welfare",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo112.pdf",
+    "uid": "zQs_TrR6B",
+    "title": "Chapter 12: Respiration in Plants",
+    "id": "zQs_TrR6B",
     "chapters": [
-      "Chapter 8: Microbes in Human Welfare"
+      "Chapter 12: Respiration in Plants"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo113.pdf",
+    "uid": "N9J-8ivsc",
+    "title": "Chapter 13: Plant Growth and Development",
+    "id": "N9J-8ivsc",
+    "chapters": [
+      "Chapter 13: Plant Growth and Development"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo114.pdf",
+    "uid": "K1ugUPyxw",
+    "title": "Chapter 14: Breathing and Exchange of Gases",
+    "id": "K1ugUPyxw",
+    "chapters": [
+      "Chapter 14: Breathing and Exchange of Gases"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo115.pdf",
+    "uid": "Q-sCP3Mmn",
+    "title": "Chapter 15: Body Fluids and Circulation",
+    "id": "Q-sCP3Mmn",
+    "chapters": [
+      "Chapter 15: Body Fluids and Circulation"
     ]
   },
   {
@@ -757,8 +154,69 @@
     "url": "https://ncert.nic.in/textbook/pdf/lebo116.pdf",
     "uid": "Np6ifxYiA",
     "title": "Chapter 16: Excretory Products and their Elimination",
+    "id": "Np6ifxYiA",
     "chapters": [
       "Chapter 16: Excretory Products and their Elimination"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo117.pdf",
+    "uid": "GfurG2caT",
+    "title": "Chapter 17: Locomotion and Movement",
+    "id": "GfurG2caT",
+    "chapters": [
+      "Chapter 17: Locomotion and Movement"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo118.pdf",
+    "uid": "ufkOB2XJ_",
+    "title": "Chapter 18: Neural Control and Coordination",
+    "id": "ufkOB2XJ_",
+    "chapters": [
+      "Chapter 18: Neural Control and Coordination"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo119.pdf",
+    "uid": "PSkoaRceB",
+    "title": "Chapter 19: Chemical Coordination and Integration",
+    "id": "PSkoaRceB",
+    "chapters": [
+      "Chapter 19: Chemical Coordination and Integration"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo201.pdf",
+    "uid": "nalNUGfQY",
+    "title": "Chapter 1: Sexual Reproduction in Flowering Plants",
+    "id": "nalNUGfQY",
+    "chapters": [
+      "Chapter 1: Sexual Reproduction in Flowering Plants"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo202.pdf",
+    "uid": "uwp0kiJ1r",
+    "title": "Chapter 2: Human Reproduction",
+    "id": "uwp0kiJ1r",
+    "chapters": [
+      "Chapter 2: Human Reproduction"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo203.pdf",
+    "uid": "wAZN9BzHT",
+    "title": "Chapter 3: Reproductive Health",
+    "id": "wAZN9BzHT",
+    "chapters": [
+      "Chapter 3: Reproductive Health"
     ]
   },
   {
@@ -766,8 +224,569 @@
     "url": "https://ncert.nic.in/textbook/pdf/lebo204.pdf",
     "uid": "8zCMhj2XM",
     "title": "Chapter 4: Principles of Inheritance and Variation",
+    "id": "8zCMhj2XM",
     "chapters": [
       "Chapter 4: Principles of Inheritance and Variation"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo205.pdf",
+    "uid": "scdI1ENyK",
+    "title": "Chapter 5: Molecular Basis of Inheritance",
+    "id": "scdI1ENyK",
+    "chapters": [
+      "Chapter 5: Molecular Basis of Inheritance"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo206.pdf",
+    "uid": "g5MwdT_HW",
+    "title": "Chapter 6: Evolution",
+    "id": "g5MwdT_HW",
+    "chapters": [
+      "Chapter 6: Evolution"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo207.pdf",
+    "uid": "JatrSMeLn",
+    "title": "Chapter 7: Human Health and Disease",
+    "id": "JatrSMeLn",
+    "chapters": [
+      "Chapter 7: Human Health and Disease"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo208.pdf",
+    "uid": "JEA8-qmGE",
+    "title": "Chapter 8: Microbes in Human Welfare",
+    "id": "JEA8-qmGE",
+    "chapters": [
+      "Chapter 8: Microbes in Human Welfare"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo209.pdf",
+    "uid": "feM_Rhp5K",
+    "title": "Chapter 9: Biotechnology: Principles and Processes",
+    "id": "feM_Rhp5K",
+    "chapters": [
+      "Chapter 9: Biotechnology: Principles and Processes"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo210.pdf",
+    "uid": "XBiUlirWy",
+    "title": "Chapter 10: Biotechnology and its Applications",
+    "id": "XBiUlirWy",
+    "chapters": [
+      "Chapter 10: Biotechnology and its Applications"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo211.pdf",
+    "uid": "7dOugR0cO",
+    "title": "Chapter 11: Organisms and Populations",
+    "id": "7dOugR0cO",
+    "chapters": [
+      "Chapter 11: Organisms and Populations"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo212.pdf",
+    "uid": "YCRKzoofu",
+    "title": "Chapter 12: Ecosystem",
+    "id": "YCRKzoofu",
+    "chapters": [
+      "Chapter 12: Ecosystem"
+    ]
+  },
+  {
+    "category": "Biology",
+    "url": "https://ncert.nic.in/textbook/pdf/lebo213.pdf",
+    "uid": "ICLdwwLQ5",
+    "title": "Chapter 13: Biodiversity and Conservation",
+    "id": "ICLdwwLQ5",
+    "chapters": [
+      "Chapter 13: Biodiversity and Conservation"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech101.pdf",
+    "uid": "JibVfga_p",
+    "title": "Chapter 1: Some Basic Concepts of Chemistry",
+    "id": "JibVfga_p",
+    "chapters": [
+      "Chapter 1: Some Basic Concepts of Chemistry"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech102.pdf",
+    "uid": "1oxT8HAie",
+    "title": "Chapter 2: Structure of Atom",
+    "id": "1oxT8HAie",
+    "chapters": [
+      "Chapter 2: Structure of Atom"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech103.pdf",
+    "uid": "6DQ9LOLpB",
+    "title": "Chapter 3: Classification of Elements and Periodicity in Properties",
+    "id": "6DQ9LOLpB",
+    "chapters": [
+      "Chapter 3: Classification of Elements and Periodicity in Properties"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech104.pdf",
+    "uid": "Jdomp_ZVb",
+    "title": "Chapter 4: Chemical Bonding and Molecular Structure",
+    "id": "Jdomp_ZVb",
+    "chapters": [
+      "Chapter 4: Chemical Bonding and Molecular Structure"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech105.pdf",
+    "uid": "TjLBhUOzN",
+    "title": "Chapter 5: Chemical Thermodynamics",
+    "id": "TjLBhUOzN",
+    "chapters": [
+      "Chapter 5: Chemical Thermodynamics"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech106.pdf",
+    "uid": "I6YqsdVyx",
+    "title": "Chapter 6: Equilibrium",
+    "id": "I6YqsdVyx",
+    "chapters": [
+      "Chapter 6: Equilibrium"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech201.pdf",
+    "uid": "exh9Rl8TZ",
+    "title": "Chapter 7: Redox Reactions",
+    "id": "exh9Rl8TZ",
+    "chapters": [
+      "Chapter 7: Redox Reactions"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech202.pdf",
+    "uid": "u2oyk51hx",
+    "title": "Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+    "id": "u2oyk51hx",
+    "chapters": [
+      "Chapter 8: Organic Chemistry: Some Basic Principles and Techniques"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech203.pdf",
+    "uid": "kDwSO_Ejx",
+    "title": "Chapter 9: Hydrocarbons",
+    "id": "kDwSO_Ejx",
+    "chapters": [
+      "Chapter 9: Hydrocarbons"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech101.pdf",
+    "uid": "twI7E8lsL",
+    "title": "Chapter 1: Solutions",
+    "id": "twI7E8lsL",
+    "chapters": [
+      "Chapter 1: Solutions"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech102.pdf",
+    "uid": "hiHoCPST6",
+    "title": "Chapter 2: Electrochemistry",
+    "id": "hiHoCPST6",
+    "chapters": [
+      "Chapter 2: Electrochemistry"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech103.pdf",
+    "uid": "xEYeiEXVy",
+    "title": "Chapter 3: Chemical Kinetics",
+    "id": "xEYeiEXVy",
+    "chapters": [
+      "Chapter 3: Chemical Kinetics"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech104.pdf",
+    "uid": "auuJrd5r7",
+    "title": "Chapter 4: The d-and f-Block Elements",
+    "id": "auuJrd5r7",
+    "chapters": [
+      "Chapter 4: The d-and f-Block Elements"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech105.pdf",
+    "uid": "C79W6OlNo",
+    "title": "Chapter 5: Coordination Compounds",
+    "id": "C79W6OlNo",
+    "chapters": [
+      "Chapter 5: Coordination Compounds"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech201.pdf",
+    "uid": "C3Aq8d5Jh",
+    "title": "Chapter 6: Haloalkanes and Haloarenes",
+    "id": "C3Aq8d5Jh",
+    "chapters": [
+      "Chapter 6: Haloalkanes and Haloarenes"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech202.pdf",
+    "uid": "xmCVx40KW",
+    "title": "Chapter 7: Alcohols, Phenols and Ethers",
+    "id": "xmCVx40KW",
+    "chapters": [
+      "Chapter 7: Alcohols, Phenols and Ethers"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech203.pdf",
+    "uid": "w3o0R3JDS",
+    "title": "Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+    "id": "w3o0R3JDS",
+    "chapters": [
+      "Chapter 8: Aldehydes, Ketones and Carboxylic Acids"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech204.pdf",
+    "uid": "VY8MSVchL",
+    "title": "Chapter 9: Amines",
+    "id": "VY8MSVchL",
+    "chapters": [
+      "Chapter 9: Amines"
+    ]
+  },
+  {
+    "category": "Chemistry",
+    "url": "https://ncert.nic.in/textbook/pdf/lech205.pdf",
+    "uid": "UzOu3IcqR",
+    "title": "Chapter 10: Biomolecules",
+    "id": "UzOu3IcqR",
+    "chapters": [
+      "Chapter 10: Biomolecules"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph101.pdf",
+    "uid": "inRfWVMaR",
+    "title": "Chapter 1: Units and Measurements",
+    "id": "inRfWVMaR",
+    "chapters": [
+      "Chapter 1: Units and Measurements"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph102.pdf",
+    "uid": "4i3-hePEn",
+    "title": "Chapter 2: Motion in a Straight Line",
+    "id": "4i3-hePEn",
+    "chapters": [
+      "Chapter 2: Motion in a Straight Line"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph103.pdf",
+    "uid": "i_4HiIS0J",
+    "title": "Chapter 3: Motion in a Plane",
+    "id": "i_4HiIS0J",
+    "chapters": [
+      "Chapter 3: Motion in a Plane"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph104.pdf",
+    "uid": "2Tx_NfecK",
+    "title": "Chapter 4: Laws of Motion",
+    "id": "2Tx_NfecK",
+    "chapters": [
+      "Chapter 4: Laws of Motion"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph105.pdf",
+    "uid": "gI1JOicLY",
+    "title": "Chapter 5: Work, Energy and Power",
+    "id": "gI1JOicLY",
+    "chapters": [
+      "Chapter 5: Work, Energy and Power"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph106.pdf",
+    "uid": "vpFdnJJrL",
+    "title": "Chapter 6: System of Particles and Rotational Motion",
+    "id": "vpFdnJJrL",
+    "chapters": [
+      "Chapter 6: System of Particles and Rotational Motion"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph107.pdf",
+    "uid": "4f4bzEasx",
+    "title": "Chapter 7: Gravitation",
+    "id": "4f4bzEasx",
+    "chapters": [
+      "Chapter 7: Gravitation"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph201.pdf",
+    "uid": "ePP5EbZGN",
+    "title": "Chapter 8: Mechanical Properties of Solids",
+    "id": "ePP5EbZGN",
+    "chapters": [
+      "Chapter 8: Mechanical Properties of Solids"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph202.pdf",
+    "uid": "Wdr7ZIviM",
+    "title": "Chapter 9: Mechanical Properties of Fluids",
+    "id": "Wdr7ZIviM",
+    "chapters": [
+      "Chapter 9: Mechanical Properties of Fluids"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph203.pdf",
+    "uid": "rQKp9Mv0R",
+    "title": "Chapter 10: Thermal Properties of Matter",
+    "id": "rQKp9Mv0R",
+    "chapters": [
+      "Chapter 10: Thermal Properties of Matter"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph204.pdf",
+    "uid": "Wz2DyvuN6",
+    "title": "Chapter 11: Thermodynamics",
+    "id": "Wz2DyvuN6",
+    "chapters": [
+      "Chapter 11: Thermodynamics"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph205.pdf",
+    "uid": "xOlEybOA4",
+    "title": "Chapter 12: Kinetic Theory",
+    "id": "xOlEybOA4",
+    "chapters": [
+      "Chapter 12: Kinetic Theory"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph206.pdf",
+    "uid": "eCiDA3cGC",
+    "title": "Chapter 13: Oscillations",
+    "id": "eCiDA3cGC",
+    "chapters": [
+      "Chapter 13: Oscillations"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph207.pdf",
+    "uid": "OfJ5iq_r1",
+    "title": "Chapter 14: Waves",
+    "id": "OfJ5iq_r1",
+    "chapters": [
+      "Chapter 14: Waves"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph101.pdf",
+    "uid": "nC_wO8IP7",
+    "title": "Chapter 1: Electric Charges and Fields",
+    "id": "nC_wO8IP7",
+    "chapters": [
+      "Chapter 1: Electric Charges and Fields"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph102.pdf",
+    "uid": "hZ2H0p9Sq",
+    "title": "Chapter 2: Electrostatic Potential and Capacitance",
+    "id": "hZ2H0p9Sq",
+    "chapters": [
+      "Chapter 2: Electrostatic Potential and Capacitance"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph103.pdf",
+    "uid": "7M8Seq1Mp",
+    "title": "Chapter 3: Current Electricity",
+    "id": "7M8Seq1Mp",
+    "chapters": [
+      "Chapter 3: Current Electricity"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph104.pdf",
+    "uid": "vhYaw0Yam",
+    "title": "Chapter 4: Moving Charges and Magnetism",
+    "id": "vhYaw0Yam",
+    "chapters": [
+      "Chapter 4: Moving Charges and Magnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph105.pdf",
+    "uid": "dnIm2V4HC",
+    "title": "Chapter 5: Magnetism and Matter",
+    "id": "dnIm2V4HC",
+    "chapters": [
+      "Chapter 5: Magnetism and Matter"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph106.pdf",
+    "uid": "otApC4naS",
+    "title": "Chapter 6: Electromagnetic Induction",
+    "id": "otApC4naS",
+    "chapters": [
+      "Chapter 6: Electromagnetic Induction"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph107.pdf",
+    "uid": "GlUqEIqFQ",
+    "title": "Chapter 7: Alternating Current",
+    "id": "GlUqEIqFQ",
+    "chapters": [
+      "Chapter 7: Alternating Current"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph108.pdf",
+    "uid": "ApbBPsdpc",
+    "title": "Chapter 8: Electromagnetic Waves",
+    "id": "ApbBPsdpc",
+    "chapters": [
+      "Chapter 8: Electromagnetic Waves"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph201.pdf",
+    "uid": "c0wVPGwyB",
+    "title": "Chapter 9: Ray Optics and Optical Instruments",
+    "id": "c0wVPGwyB",
+    "chapters": [
+      "Chapter 9: Ray Optics and Optical Instruments"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph202.pdf",
+    "uid": "P0_GqX9h-",
+    "title": "Chapter 10: Wave Optics",
+    "id": "P0_GqX9h-",
+    "chapters": [
+      "Chapter 10: Wave Optics"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph203.pdf",
+    "uid": "lcBm4ltt_",
+    "title": "Chapter 11: Dual Nature of Radiation and Matter",
+    "id": "lcBm4ltt_",
+    "chapters": [
+      "Chapter 11: Dual Nature of Radiation and Matter"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph204.pdf",
+    "uid": "s9ojwJ6bj",
+    "title": "Chapter 12: Atoms",
+    "id": "s9ojwJ6bj",
+    "chapters": [
+      "Chapter 12: Atoms"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph205.pdf",
+    "uid": "0E3w4Xfne",
+    "title": "Chapter 13: Nuclei",
+    "id": "0E3w4Xfne",
+    "chapters": [
+      "Chapter 13: Nuclei"
+    ]
+  },
+  {
+    "category": "Physics",
+    "url": "https://ncert.nic.in/textbook/pdf/leph206.pdf",
+    "uid": "ygo313_y7",
+    "title": "Chapter 14: Semiconductor Electronics",
+    "id": "ygo313_y7",
+    "chapters": [
+      "Chapter 14: Semiconductor Electronics"
     ]
   }
 ]
