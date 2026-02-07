@@ -1,0 +1,356 @@
+[
+  {
+    "label": "Biology",
+    "hasVideos": false,
+    "children": [
+      {
+        "label": "Mixed",
+        "hasVideos": false
+      },
+      {
+        "label": "Previous Papers",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 1: The Living World",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 2: Biological Classification",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 3: Plant Kingdom",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 4: Animal Kingdom",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 5: Morphology of Flowering Plant",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 6: Anatomy of Flowering Plants",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 7: Human Health and Disease",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 8: Cell The Unit of Life",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 9: Biomolecules",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 10: Cell Cycle and Cell Division",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 11: Photosynthesis in Higher Plants",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 12: Respiration in Plants",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 13: Plant Growth and development",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 14: Breathing and Exchange of Gases",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 15: Body Fluids and Circulation",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 16: Excretory Products and Their Elimination",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 17: Locomotion and Movement",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 18: Neural Control and Coordination",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 19: Chemical Coordination and Integration",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 1: Sexual Reproduction in Flowering Plants",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 2: Human Reproduction",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 3: Reproductive Health",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 5: Molecular Basis of Inheritance",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 6: Evolution",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 7: Human Health and Disease",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 8: Microbes in Human Welfare",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 9: Biotechnology Principles and Processes",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 10: Biotechnology and its Applications",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 11: Organisms and Populations",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 12: Ecosystem",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 13: Biodiversity and Conservation",
+        "hasVideos": false
+      }
+    ]
+  },
+  {
+    "label": "Chemistry",
+    "hasVideos": false,
+    "children": [
+      {
+        "label": "Mixed",
+        "hasVideos": false
+      },
+      {
+        "label": "Previous Papers",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 1: Some Basic Concepts of Chemistry",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 2: Structure of Atom",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 3: Classification of Elements and Periodicity in Properties",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 4: Chemical Bonding and Molecular Structure",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 5: Chemical Thermodynamics",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 6: Equilibrium",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 7: Redox Reactions",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 9: Hydrocarbons",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 1: Solutions",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 2: Electrochemistry",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 3: Chemical Kinetics",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 4: The d-and f-Block Elements",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 5: Coordination Compounds",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 6: Haloalkanes and Haloarenes",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 7: Alcohols, Phenols and Ethers",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 9: Amines",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 10: Biomolecules",
+        "hasVideos": false
+      }
+    ]
+  },
+  {
+    "label": "Physics",
+    "hasVideos": false,
+    "children": [
+      {
+        "label": "Mixed",
+        "hasVideos": false
+      },
+      {
+        "label": "Previous Papers",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 1: Units and Measurements",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 2: Motion in a Straight Line",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 3: Motion in a Plane",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 4: Laws of Motion",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 5: Work, Energy and Power",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 6: System of Particles and Rotational Motion",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 7: Gravitation",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 8: Mechanical Properties of Solids",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 9: Mechanical Properties of Fluids",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 10: Thermal Properties of Matter",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 11: Thermodynamics",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 12: Kinetic Theory",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 13: Oscillations",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 14: Waves",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 1: Electric Charges and Fields",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 2: Electrostatic Potential and Capacitance",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 3: Current Electricity",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 4: Moving Charges and Magnetism",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 5: Magnetism and Matter",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 6: Electromagnetic Induction",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 7: Alternating Current",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 8: Electromagnetic Waves",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 9: Ray Optics and Optical Instruments",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 10: Wave Optics",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 11: Dual Nature of Radiation and Matter",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 12: Atoms",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 13: Nuclei",
+        "hasVideos": false
+      },
+      {
+        "label": "Chapter 14: Semiconductor Electronics",
+        "hasVideos": false
+      }
+    ]
+  }
+]
