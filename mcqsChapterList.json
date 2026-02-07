@@ -3,126 +3,356 @@
     "name": "Biology",
     "sub_chapters": [
       {
-        "name": "Cell",
-        "sub_chapters": []
+        "name": "11th Biology",
+        "sub_chapters": [
+          {
+            "name": "Chapter 1: The Living World",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 2: Biological Classification",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 3: Plant Kingdom",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 4: Animal Kingdom",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 5: Morphology of Flowering Plant",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 6: Anatomy of Flowering Plants",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 7: Human Health and Disease",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 8: Cell The Unit of Life",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 9: Biomolecules",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 10: Cell Cycle and Cell Division",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 11: Photosynthesis in Higher Plants",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 12: Respiration in Plants",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 13: Plant Growth and development",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 14: Breathing and Exchange of Gases",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 15: Body Fluids and Circulation",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 16: Excretory Products and Their Elimination",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 17: Locomotion and Movement",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 18: Neural Control and Coordination",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 19: Chemical Coordination and Integration",
+            "sub_chapters": []
+          }
+        ]
+      },
+      {
+        "name": "12th Biology",
+        "sub_chapters": [
+          {
+            "name": "Chapter 1: Sexual Reproduction in Flowering Plants",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 2: Human Reproduction",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 3: Reproductive Health",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 5: Molecular Basis of Inheritance",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 6: Evolution",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 7: Human Health and Disease",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 8: Microbes in Human Welfare",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 9: Biotechnology Principles and Processes",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 10: Biotechnology and its Applications",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 11: Organisms and Populations",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 12: Ecosystem",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 13: Biodiversity and Conservation",
+            "sub_chapters": []
+          }
+        ]
       }
     ]
   },
   {
     "name": "Chemistry",
-    "sub_chapters": []
-  },
-  {
-    "name": "Physics",
-    "sub_chapters": []
-  },
-  {
-    "name": "11th Biology",
     "sub_chapters": [
       {
-        "name": "Chapter 1: The Living World",
-        "sub_chapters": []
+        "name": "11th Chemistry",
+        "sub_chapters": [
+          {
+            "name": "Chapter 1: Some Basic Concepts of Chemistry",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 2: Structure of Atom",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 3: Classification of Elements and Periodicity in Properties",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 4: Chemical Bonding and Molecular Structure",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 5: Chemical Thermodynamics",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 6: Equilibrium",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 7: Redox Reactions",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 9: Hydrocarbons",
+            "sub_chapters": []
+          }
+        ]
       },
       {
-        "name": "Chapter 2: Biological Classification",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 3: Plant Kingdom",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 4: Animal Kingdom",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 5: Morphology of Flowering Plant",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 6: Anatomy of Flowering Plants",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 7: Human Health and Disease",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 8: Cell The Unit of Life",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 9: Biomolecules",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 10: Cell Cycle and Cell Division",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 11: Photosynthesis in Higher Plants",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 12: Respiration in Plants",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 13: Plant Growth and development",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 14: Breathing and Exchange of Gases",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 15: Body Fluids and Circulation",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 16: Excretory Products and Their Elimination",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 17: Locomotion and Movement",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 18: Neural Control and Coordination",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 19: Chemical Coordination and Integration",
-        "sub_chapters": []
+        "name": "12th Chemistry",
+        "sub_chapters": [
+          {
+            "name": "Chapter 1: Solutions",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 2: Electrochemistry",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 3: Chemical Kinetics",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 4: The d-and f-Block Elements",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 5: Coordination Compounds",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 6: Haloalkanes and Haloarenes",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 7: Alcohols, Phenols and Ethers",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 9: Amines",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 10: Biomolecules",
+            "sub_chapters": []
+          }
+        ]
       }
     ]
   },
   {
-    "name": "12th Biology",
+    "name": "Physics",
     "sub_chapters": [
       {
-        "name": "Chapter 1: Sexual Reproduction in Flowering Plants",
-        "sub_chapters": []
+        "name": "11th Physics",
+        "sub_chapters": [
+          {
+            "name": "Chapter 1: Units and Measurements",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 2: Motion in a Straight Line",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 3: Motion in a Plane",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 4: Laws of Motion",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 5: Work, Energy and Power",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 6: System of Particles and Rotational Motion",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 7: Gravitation",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 8: Mechanical Properties of Solids",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 9: Mechanical Properties of Fluids",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 10: Thermal Properties of Matter",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 11: Thermodynamics",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 12: Kinetic Theory",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 13: Oscillations",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 14: Waves",
+            "sub_chapters": []
+          }
+        ]
       },
       {
-        "name": "Chapter 2: Human Reproduction",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 3: Reproductive Health",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 5: Molecular Basis of Inheritance",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 6: Evolution",
-        "sub_chapters": []
-      },
-      {
-        "name": "Chapter 7: Human Health and Disease",
-        "sub_chapters": []
+        "name": "12th Physics",
+        "sub_chapters": [
+          {
+            "name": "Chapter 1: Electric Charges and Fields",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 2: Electrostatic Potential and Capacitance",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 3: Current Electricity",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 4: Moving Charges and Magnetism",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 5: Magnetism and Matter",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 6: Electromagnetic Induction",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 7: Alternating Current",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 8: Electromagnetic Waves",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 9: Ray Optics and Optical Instruments",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 10: Wave Optics",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 11: Dual Nature of Radiation and Matter",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 12: Atoms",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 13: Nuclei",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chapter 14: Semiconductor Electronics",
+            "sub_chapters": []
+          }
+        ]
       }
     ]
   }
